@@ -1,0 +1,9 @@
+typ_id;typ;class_id;class;class_id2
+11;Grossstadt;1;Kernstadt;1
+12;Mittelstadt;1;Kernstadt;1
+13;Kleinstadt;1;Kernstadt;1
+21;statushohe Gemeinde;2;Grossagglomeration;2
+22;statusmittlere Gemeinde;2;Grossagglomeration;2
+23;statustiefe Gemeinde;2;Grossagglomeration;2
+31;Kleinagglomerationsgemeinde;3;Kleinagglomeration;3
+41;ländliche Gemeinde;4;Ländlicher Raum;3

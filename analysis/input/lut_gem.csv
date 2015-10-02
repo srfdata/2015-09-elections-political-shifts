@@ -1,0 +1,2325 @@
+gnr;gemeinde;sprachreg;kt;agglotyp;agglotyp_id
+1;Aeugst am Albis;D;ZH;statushohe Gemeinde;21
+2;Affoltern am Albis;D;ZH;statustiefe Gemeinde;23
+3;Bonstetten;D;ZH;statushohe Gemeinde;21
+4;Hausen am Albis;D;ZH;statusmittlere Gemeinde;22
+5;Hedingen;D;ZH;statushohe Gemeinde;21
+6;Kappel am Albis;D;ZH;Kleinagglomerationsgemeinde;31
+7;Knonau;D;ZH;statushohe Gemeinde;21
+8;Maschwanden;D;ZH;statusmittlere Gemeinde;22
+9;Mettmenstetten;D;ZH;statusmittlere Gemeinde;22
+10;Obfelden;D;ZH;statusmittlere Gemeinde;22
+11;Ottenbach;D;ZH;statusmittlere Gemeinde;22
+12;Rifferswil;D;ZH;statushohe Gemeinde;21
+13;Stallikon;D;ZH;statushohe Gemeinde;21
+14;Wettswil am Albis;D;ZH;statushohe Gemeinde;21
+21;Adlikon;D;ZH;Kleinagglomerationsgemeinde;31
+22;Benken (ZH);D;ZH;Kleinagglomerationsgemeinde;31
+23;Berg am Irchel;D;ZH;statusmittlere Gemeinde;22
+24;Buch am Irchel;D;ZH;Kleinagglomerationsgemeinde;31
+25;Dachsen;D;ZH;Kleinagglomerationsgemeinde;31
+26;Dorf;D;ZH;Kleinagglomerationsgemeinde;31
+27;Feuerthalen;D;ZH;Kleinagglomerationsgemeinde;31
+28;Flaach;D;ZH;Kleinagglomerationsgemeinde;31
+29;Flurlingen;D;ZH;Kleinagglomerationsgemeinde;31
+30;Andelfingen;D;ZH;Kleinagglomerationsgemeinde;31
+31;Henggart;D;ZH;Kleinagglomerationsgemeinde;31
+32;Humlikon;D;ZH;Kleinagglomerationsgemeinde;31
+33;Kleinandelfingen;D;ZH;Kleinagglomerationsgemeinde;31
+34;Laufen-Uhwiesen;D;ZH;Kleinagglomerationsgemeinde;31
+35;Marthalen;D;ZH;Kleinagglomerationsgemeinde;31
+36;Oberstammheim;D;ZH;ländlich-gemischte Gemeinde;41
+37;Ossingen;D;ZH;Kleinagglomerationsgemeinde;31
+38;Rheinau;D;ZH;Kleinagglomerationsgemeinde;31
+39;Thalheim an der Thur;D;ZH;Kleinagglomerationsgemeinde;31
+40;Trüllikon;D;ZH;Kleinagglomerationsgemeinde;31
+41;Truttikon;D;ZH;Kleinagglomerationsgemeinde;31
+42;Unterstammheim;D;ZH;ländlich-gemischte Gemeinde;41
+43;Volken;D;ZH;Kleinagglomerationsgemeinde;31
+44;Waltalingen;D;ZH;ländlich-gemischte Gemeinde;41
+51;Bachenbülach;D;ZH;statusmittlere Gemeinde;22
+52;Bassersdorf;D;ZH;statusmittlere Gemeinde;22
+53;Bülach;D;ZH;statusmittlere Gemeinde;22
+54;Dietlikon;D;ZH;statusmittlere Gemeinde;22
+55;Eglisau;D;ZH;statushohe Gemeinde;21
+56;Embrach;D;ZH;statusmittlere Gemeinde;22
+57;Freienstein-Teufen;D;ZH;statusmittlere Gemeinde;22
+58;Glattfelden;D;ZH;statusmittlere Gemeinde;22
+59;Hochfelden;D;ZH;statushohe Gemeinde;21
+60;Höri;D;ZH;statustiefe Gemeinde;23
+61;Hüntwangen;D;ZH;statushohe Gemeinde;21
+62;Kloten;D;ZH;statustiefe Gemeinde;23
+63;Lufingen;D;ZH;statushohe Gemeinde;21
+64;Nürensdorf;D;ZH;statushohe Gemeinde;21
+65;Oberembrach;D;ZH;statushohe Gemeinde;21
+66;Opfikon;D;ZH;statustiefe Gemeinde;23
+67;Rafz;D;ZH;statusmittlere Gemeinde;22
+68;Rorbas;D;ZH;statusmittlere Gemeinde;22
+69;Wallisellen;D;ZH;statusmittlere Gemeinde;22
+70;Wasterkingen;D;ZH;statusmittlere Gemeinde;22
+71;Wil (ZH);D;ZH;statusmittlere Gemeinde;22
+72;Winkel;D;ZH;statushohe Gemeinde;21
+81;Bachs;D;ZH;statusmittlere Gemeinde;22
+82;Boppelsen;D;ZH;statushohe Gemeinde;21
+83;Buchs (ZH);D;ZH;statusmittlere Gemeinde;22
+84;Dällikon;D;ZH;statustiefe Gemeinde;23
+85;Dänikon;D;ZH;statustiefe Gemeinde;23
+86;Dielsdorf;D;ZH;statusmittlere Gemeinde;22
+87;Hüttikon;D;ZH;statusmittlere Gemeinde;22
+88;Neerach;D;ZH;statushohe Gemeinde;21
+89;Niederglatt;D;ZH;statustiefe Gemeinde;23
+90;Niederhasli;D;ZH;statusmittlere Gemeinde;22
+91;Niederweningen;D;ZH;statushohe Gemeinde;21
+92;Oberglatt;D;ZH;statustiefe Gemeinde;23
+93;Oberweningen;D;ZH;statusmittlere Gemeinde;22
+94;Otelfingen;D;ZH;statushohe Gemeinde;21
+95;Regensberg;D;ZH;statushohe Gemeinde;21
+96;Regensdorf;D;ZH;statustiefe Gemeinde;23
+97;Rümlang;D;ZH;statustiefe Gemeinde;23
+98;Schleinikon;D;ZH;statusmittlere Gemeinde;22
+99;Schöfflisdorf;D;ZH;statushohe Gemeinde;21
+100;Stadel;D;ZH;statusmittlere Gemeinde;22
+101;Steinmaur;D;ZH;statusmittlere Gemeinde;22
+102;Weiach;D;ZH;statusmittlere Gemeinde;22
+111;Bäretswil;D;ZH;statusmittlere Gemeinde;22
+112;Bubikon;D;ZH;statusmittlere Gemeinde;22
+113;Dürnten;D;ZH;Kleinagglomerationsgemeinde;31
+114;Fischenthal;D;ZH;ländlich-gemischte Gemeinde;41
+115;Gossau (ZH);D;ZH;statusmittlere Gemeinde;22
+116;Grüningen;D;ZH;statusmittlere Gemeinde;22
+117;Hinwil;D;ZH;statusmittlere Gemeinde;22
+118;Rüti (ZH);D;ZH;Kleinagglomerationsgemeinde;31
+119;Seegräben;D;ZH;statusmittlere Gemeinde;22
+120;Wald (ZH);D;ZH;Kleinagglomerationsgemeinde;31
+121;Wetzikon (ZH);D;ZH;Kleinstadt;13
+131;Adliswil;D;ZH;statusmittlere Gemeinde;22
+132;Hirzel;D;ZH;statusmittlere Gemeinde;22
+133;Horgen;D;ZH;statusmittlere Gemeinde;22
+134;Hütten;D;ZH;statusmittlere Gemeinde;22
+135;Kilchberg (ZH);D;ZH;statushohe Gemeinde;21
+136;Langnau am Albis;D;ZH;statusmittlere Gemeinde;22
+137;Oberrieden;D;ZH;statushohe Gemeinde;21
+138;Richterswil;D;ZH;statusmittlere Gemeinde;22
+139;Rüschlikon;D;ZH;statushohe Gemeinde;21
+140;Schönenberg (ZH);D;ZH;statushohe Gemeinde;21
+141;Thalwil;D;ZH;statushohe Gemeinde;21
+142;Wädenswil;D;ZH;statusmittlere Gemeinde;22
+151;Erlenbach (ZH);D;ZH;statushohe Gemeinde;21
+152;Herrliberg;D;ZH;statushohe Gemeinde;21
+153;Hombrechtikon;D;ZH;statusmittlere Gemeinde;22
+154;Küsnacht (ZH);D;ZH;statushohe Gemeinde;21
+155;Männedorf;D;ZH;statushohe Gemeinde;21
+156;Meilen;D;ZH;statushohe Gemeinde;21
+157;Oetwil am See;D;ZH;statusmittlere Gemeinde;22
+158;Stäfa;D;ZH;statushohe Gemeinde;21
+159;Uetikon am See;D;ZH;statushohe Gemeinde;21
+160;Zumikon;D;ZH;statushohe Gemeinde;21
+161;Zollikon;D;ZH;statushohe Gemeinde;21
+172;Fehraltorf;D;ZH;statusmittlere Gemeinde;22
+173;Hittnau;D;ZH;statusmittlere Gemeinde;22
+174;Illnau-Effretikon;D;ZH;statusmittlere Gemeinde;22
+175;Kyburg;D;ZH;statusmittlere Gemeinde;22
+176;Lindau;D;ZH;statushohe Gemeinde;21
+177;Pfäffikon;D;ZH;statusmittlere Gemeinde;22
+178;Russikon;D;ZH;statushohe Gemeinde;21
+180;Weisslingen;D;ZH;statusmittlere Gemeinde;22
+181;Wila;D;ZH;Kleinagglomerationsgemeinde;31
+182;Wildberg;D;ZH;statusmittlere Gemeinde;22
+191;Dübendorf;D;ZH;statustiefe Gemeinde;23
+192;Egg;D;ZH;statusmittlere Gemeinde;22
+193;Fällanden;D;ZH;statushohe Gemeinde;21
+194;Greifensee;D;ZH;statushohe Gemeinde;21
+195;Maur;D;ZH;statushohe Gemeinde;21
+196;Mönchaltorf;D;ZH;statusmittlere Gemeinde;22
+197;Schwerzenbach;D;ZH;statusmittlere Gemeinde;22
+198;Uster;D;ZH;statusmittlere Gemeinde;22
+199;Volketswil;D;ZH;statusmittlere Gemeinde;22
+200;Wangen-Brüttisellen;D;ZH;statusmittlere Gemeinde;22
+211;Altikon;D;ZH;Kleinagglomerationsgemeinde;31
+213;Brütten;D;ZH;statushohe Gemeinde;21
+214;Dägerlen;D;ZH;Kleinagglomerationsgemeinde;31
+215;Dättlikon;D;ZH;statushohe Gemeinde;21
+216;Dinhard;D;ZH;Kleinagglomerationsgemeinde;31
+217;Elgg;D;ZH;statusmittlere Gemeinde;22
+218;Ellikon an der Thur;D;ZH;Kleinagglomerationsgemeinde;31
+219;Elsau;D;ZH;statusmittlere Gemeinde;22
+220;Hagenbuch;D;ZH;Kleinagglomerationsgemeinde;31
+221;Hettlingen;D;ZH;Kleinagglomerationsgemeinde;31
+222;Hofstetten (ZH);D;ZH;Kleinagglomerationsgemeinde;31
+223;Neftenbach;D;ZH;statushohe Gemeinde;21
+224;Pfungen;D;ZH;statusmittlere Gemeinde;22
+225;Rickenbach (ZH);D;ZH;statusmittlere Gemeinde;22
+226;Schlatt (ZH);D;ZH;statusmittlere Gemeinde;22
+227;Seuzach;D;ZH;statushohe Gemeinde;21
+228;Turbenthal;D;ZH;Kleinagglomerationsgemeinde;31
+230;Winterthur;D;ZH;Grossstadt;11
+231;Zell (ZH);D;ZH;Kleinagglomerationsgemeinde;31
+241;Aesch (ZH);D;ZH;statushohe Gemeinde;21
+242;Birmensdorf (ZH);D;ZH;statushohe Gemeinde;21
+243;Dietikon;D;ZH;statustiefe Gemeinde;23
+244;Geroldswil;D;ZH;statusmittlere Gemeinde;22
+245;Oberengstringen;D;ZH;statustiefe Gemeinde;23
+246;Oetwil an der Limmat;D;ZH;statushohe Gemeinde;21
+247;Schlieren;D;ZH;statustiefe Gemeinde;23
+248;Uitikon;D;ZH;statushohe Gemeinde;21
+249;Unterengstringen;D;ZH;statushohe Gemeinde;21
+250;Urdorf;D;ZH;statusmittlere Gemeinde;22
+251;Weiningen (ZH);D;ZH;statustiefe Gemeinde;23
+261;Zürich;D;ZH;Grossstadt;11
+297;Bauma;D;ZH;ländlich-gemischte Gemeinde;41
+298;Wiesendangen;D;ZH;statushohe Gemeinde;21
+301;Aarberg;D;BE;Kleinagglomerationsgemeinde;31
+302;Bargen (BE);D;BE;ländlich-gemischte Gemeinde;41
+303;Grossaffoltern;D;BE;ländlich-gemischte Gemeinde;41
+304;Kallnach;D;BE;ländlich-gemischte Gemeinde;41
+305;Kappelen;D;BE;Kleinagglomerationsgemeinde;31
+306;Lyss;D;BE;Kleinagglomerationsgemeinde;31
+307;Meikirch;D;BE;statusmittlere Gemeinde;22
+309;Radelfingen;D;BE;statusmittlere Gemeinde;22
+310;Rapperswil (BE);D;BE;statusmittlere Gemeinde;22
+311;Schüpfen;D;BE;statusmittlere Gemeinde;22
+312;Seedorf (BE);D;BE;Kleinagglomerationsgemeinde;31
+321;Aarwangen;D;BE;ländlich-gemischte Gemeinde;41
+322;Auswil;D;BE;ländlich-gemischte Gemeinde;41
+323;Bannwil;D;BE;ländlich-gemischte Gemeinde;41
+324;Bleienbach;D;BE;ländlich-gemischte Gemeinde;41
+325;Busswil bei Melchnau;D;BE;ländlich-gemischte Gemeinde;41
+326;Gondiswil;D;BE;ländlich-gemischte Gemeinde;41
+329;Langenthal;D;BE;Kleinagglomerationsgemeinde;31
+331;Lotzwil;D;BE;Kleinagglomerationsgemeinde;31
+332;Madiswil;D;BE;ländlich-gemischte Gemeinde;41
+333;Melchnau;D;BE;ländlich-gemischte Gemeinde;41
+334;Obersteckholz;D;BE;ländlich-gemischte Gemeinde;41
+335;Oeschenbach;D;BE;ländlich-gemischte Gemeinde;41
+336;Reisiswil;D;BE;ländlich-gemischte Gemeinde;41
+337;Roggwil (BE);D;BE;ländlich-gemischte Gemeinde;41
+338;Rohrbach;D;BE;ländlich-gemischte Gemeinde;41
+339;Rohrbachgraben;D;BE;ländlich-gemischte Gemeinde;41
+340;Rütschelen;D;BE;ländlich-gemischte Gemeinde;41
+341;Schwarzhäusern;D;BE;ländlich-gemischte Gemeinde;41
+342;Thunstetten;D;BE;ländlich-gemischte Gemeinde;41
+344;Ursenbach;D;BE;ländlich-gemischte Gemeinde;41
+345;Wynau;D;BE;ländlich-gemischte Gemeinde;41
+351;Bern;D;BE;Grossstadt;11
+352;Bolligen;D;BE;statushohe Gemeinde;21
+353;Bremgarten bei Bern;D;BE;statushohe Gemeinde;21
+354;Kirchlindach;D;BE;statusmittlere Gemeinde;22
+355;Köniz;D;BE;statusmittlere Gemeinde;22
+356;Muri bei Bern;D;BE;statushohe Gemeinde;21
+357;Oberbalm;D;BE;statustiefe Gemeinde;23
+358;Stettlen;D;BE;statusmittlere Gemeinde;22
+359;Vechigen;D;BE;statusmittlere Gemeinde;22
+360;Wohlen bei Bern;D;BE;statusmittlere Gemeinde;22
+361;Zollikofen;D;BE;statustiefe Gemeinde;23
+362;Ittigen;D;BE;statustiefe Gemeinde;23
+363;Ostermundigen;D;BE;statustiefe Gemeinde;23
+371;Biel/Bienne;D;BE;Mittelstadt;12
+372;Evilard;D;BE;statushohe Gemeinde;21
+381;Arch;D;BE;Kleinagglomerationsgemeinde;31
+382;Büetigen;D;BE;Kleinagglomerationsgemeinde;31
+383;Büren an der Aare;D;BE;ländlich-gemischte Gemeinde;41
+385;Diessbach bei Büren;D;BE;Kleinagglomerationsgemeinde;31
+386;Dotzigen;D;BE;Kleinagglomerationsgemeinde;31
+387;Lengnau (BE);D;BE;Kleinagglomerationsgemeinde;31
+388;Leuzigen;D;BE;Kleinagglomerationsgemeinde;31
+389;Meienried;D;BE;Kleinagglomerationsgemeinde;31
+390;Meinisberg;D;BE;statusmittlere Gemeinde;22
+391;Oberwil bei Büren;D;BE;ländlich-gemischte Gemeinde;41
+392;Pieterlen;D;BE;statustiefe Gemeinde;23
+393;Rüti bei Büren;D;BE;Kleinagglomerationsgemeinde;31
+394;Wengi;D;BE;Kleinagglomerationsgemeinde;31
+401;Aefligen;D;BE;Kleinagglomerationsgemeinde;31
+402;Alchenstorf;D;BE;ländlich-gemischte Gemeinde;41
+403;Bäriswil;D;BE;statusmittlere Gemeinde;22
+404;Burgdorf;D;BE;Kleinagglomerationsgemeinde;31
+405;Ersigen;D;BE;Kleinagglomerationsgemeinde;31
+406;Hasle bei Burgdorf;D;BE;ländlich-gemischte Gemeinde;41
+407;Heimiswil;D;BE;ländlich-gemischte Gemeinde;41
+408;Hellsau;D;BE;ländlich-gemischte Gemeinde;41
+409;Hindelbank;D;BE;statusmittlere Gemeinde;22
+410;Höchstetten;D;BE;ländlich-gemischte Gemeinde;41
+411;Kernenried;D;BE;ländlich-gemischte Gemeinde;41
+412;Kirchberg (BE);D;BE;Kleinagglomerationsgemeinde;31
+413;Koppigen;D;BE;ländlich-gemischte Gemeinde;41
+414;Krauchthal;D;BE;statusmittlere Gemeinde;22
+415;Lyssach;D;BE;ländlich-gemischte Gemeinde;41
+416;Mötschwil;D;BE;ländlich-gemischte Gemeinde;41
+417;Niederösch;D;BE;ländlich-gemischte Gemeinde;41
+418;Oberburg;D;BE;Kleinagglomerationsgemeinde;31
+419;Oberösch;D;BE;ländlich-gemischte Gemeinde;41
+420;Rüdtligen-Alchenflüh;D;BE;Kleinagglomerationsgemeinde;31
+421;Rumendingen;D;BE;ländlich-gemischte Gemeinde;41
+422;Rüti bei Lyssach;D;BE;ländlich-gemischte Gemeinde;41
+423;Willadingen;D;BE;ländlich-gemischte Gemeinde;41
+424;Wynigen;D;BE;ländlich-gemischte Gemeinde;41
+431;Corgémont;F;BE;ländlich-gemischte Gemeinde;41
+432;Cormoret;F;BE;ländlich-gemischte Gemeinde;41
+433;Cortébert;F;BE;ländlich-gemischte Gemeinde;41
+434;Courtelary;F;BE;ländlich-gemischte Gemeinde;41
+435;La Ferrière;F;BE;Kleinagglomerationsgemeinde;31
+437;Mont-Tramelan;D;BE;ländlich-gemischte Gemeinde;41
+438;Orvin;F;BE;statustiefe Gemeinde;23
+441;Renan (BE);F;BE;ländlich-gemischte Gemeinde;41
+442;Romont (BE);F;BE;statusmittlere Gemeinde;22
+443;Saint-Imier;F;BE;ländlich-gemischte Gemeinde;41
+444;Sonceboz-Sombeval;F;BE;ländlich-gemischte Gemeinde;41
+445;Sonvilier;F;BE;ländlich-gemischte Gemeinde;41
+446;Tramelan;F;BE;ländlich-gemischte Gemeinde;41
+448;Villeret;F;BE;ländlich-gemischte Gemeinde;41
+449;Sauge;F;BE;statusmittlere Gemeinde;22
+450;Péry-La Heutte;F;BE;statusmittlere Gemeinde;22
+491;Brüttelen;D;BE;ländlich-gemischte Gemeinde;41
+492;Erlach;D;BE;ländlich-gemischte Gemeinde;41
+493;Finsterhennen;D;BE;ländlich-gemischte Gemeinde;41
+494;Gals;D;BE;Kleinagglomerationsgemeinde;31
+495;Gampelen;D;BE;ländlich-gemischte Gemeinde;41
+496;Ins;D;BE;ländlich-gemischte Gemeinde;41
+497;Lüscherz;D;BE;Kleinagglomerationsgemeinde;31
+498;Müntschemier;D;BE;ländlich-gemischte Gemeinde;41
+499;Siselen;D;BE;ländlich-gemischte Gemeinde;41
+500;Treiten;D;BE;ländlich-gemischte Gemeinde;41
+501;Tschugg;D;BE;ländlich-gemischte Gemeinde;41
+502;Vinelz;D;BE;ländlich-gemischte Gemeinde;41
+532;Bangerten;D;BE;statusmittlere Gemeinde;22
+533;Bätterkinden;D;BE;Kleinagglomerationsgemeinde;31
+535;Deisswil bei Münchenbuchsee;D;BE;statusmittlere Gemeinde;22
+536;Diemerswil;D;BE;statusmittlere Gemeinde;22
+538;Fraubrunnen;D;BE;statusmittlere Gemeinde;22
+540;Jegenstorf;D;BE;statusmittlere Gemeinde;22
+541;Iffwil;D;BE;statusmittlere Gemeinde;22
+543;Mattstetten;D;BE;statusmittlere Gemeinde;22
+544;Moosseedorf;D;BE;statustiefe Gemeinde;23
+546;Münchenbuchsee;D;BE;statusmittlere Gemeinde;22
+551;Urtenen-Schönbühl;D;BE;statustiefe Gemeinde;23
+552;Utzenstorf;D;BE;ländlich-gemischte Gemeinde;41
+553;Wiggiswil;D;BE;statusmittlere Gemeinde;22
+554;Wiler bei Utzenstorf;D;BE;ländlich-gemischte Gemeinde;41
+556;Zielebach;D;BE;Kleinagglomerationsgemeinde;31
+557;Zuzwil (BE);D;BE;statusmittlere Gemeinde;22
+561;Adelboden;D;BE;ländlich-gemischte Gemeinde;41
+562;Aeschi bei Spiez;D;BE;ländlich-gemischte Gemeinde;41
+563;Frutigen;D;BE;ländlich-gemischte Gemeinde;41
+564;Kandergrund;D;BE;ländlich-gemischte Gemeinde;41
+565;Kandersteg;D;BE;ländlich-gemischte Gemeinde;41
+566;Krattigen;D;BE;Kleinagglomerationsgemeinde;31
+567;Reichenbach im Kandertal;D;BE;ländlich-gemischte Gemeinde;41
+571;Beatenberg;D;BE;ländlich-gemischte Gemeinde;41
+572;Bönigen;D;BE;Kleinagglomerationsgemeinde;31
+573;Brienz (BE);D;BE;ländlich-gemischte Gemeinde;41
+574;Brienzwiler;D;BE;ländlich-gemischte Gemeinde;41
+575;Därligen;D;BE;Kleinagglomerationsgemeinde;31
+576;Grindelwald;D;BE;ländlich-gemischte Gemeinde;41
+577;Gsteigwiler;D;BE;ländlich-gemischte Gemeinde;41
+578;Gündlischwand;D;BE;ländlich-gemischte Gemeinde;41
+579;Habkern;D;BE;ländlich-gemischte Gemeinde;41
+580;Hofstetten bei Brienz;D;BE;ländlich-gemischte Gemeinde;41
+581;Interlaken;D;BE;Kleinagglomerationsgemeinde;31
+582;Iseltwald;D;BE;Kleinagglomerationsgemeinde;31
+584;Lauterbrunnen;D;BE;ländlich-gemischte Gemeinde;41
+585;Leissigen;D;BE;Kleinagglomerationsgemeinde;31
+586;Lütschental;D;BE;ländlich-gemischte Gemeinde;41
+587;Matten bei Interlaken;D;BE;Kleinagglomerationsgemeinde;31
+588;Niederried bei Interlaken;D;BE;Kleinagglomerationsgemeinde;31
+589;Oberried am Brienzersee;D;BE;Kleinagglomerationsgemeinde;31
+590;Ringgenberg (BE);D;BE;Kleinagglomerationsgemeinde;31
+591;Saxeten;D;BE;Kleinagglomerationsgemeinde;31
+592;Schwanden bei Brienz;D;BE;ländlich-gemischte Gemeinde;41
+593;Unterseen;D;BE;Kleinagglomerationsgemeinde;31
+594;Wilderswil;D;BE;Kleinagglomerationsgemeinde;31
+602;Arni (BE);D;BE;ländlich-gemischte Gemeinde;41
+603;Biglen;D;BE;statustiefe Gemeinde;23
+605;Bowil;D;BE;ländlich-gemischte Gemeinde;41
+606;Brenzikofen;D;BE;Kleinagglomerationsgemeinde;31
+607;Freimettigen;D;BE;Kleinagglomerationsgemeinde;31
+608;Grosshöchstetten;D;BE;statusmittlere Gemeinde;22
+609;Häutligen;D;BE;statusmittlere Gemeinde;22
+610;Herbligen;D;BE;statusmittlere Gemeinde;22
+611;Kiesen;D;BE;statusmittlere Gemeinde;22
+612;Konolfingen;D;BE;statusmittlere Gemeinde;22
+613;Landiswil;D;BE;ländlich-gemischte Gemeinde;41
+614;Linden;D;BE;ländlich-gemischte Gemeinde;41
+615;Mirchel;D;BE;ländlich-gemischte Gemeinde;41
+616;Münsingen;D;BE;statusmittlere Gemeinde;22
+617;Niederhünigen;D;BE;statusmittlere Gemeinde;22
+619;Oberdiessbach;D;BE;Kleinagglomerationsgemeinde;31
+620;Oberthal;D;BE;ländlich-gemischte Gemeinde;41
+622;Oppligen;D;BE;statusmittlere Gemeinde;22
+623;Rubigen;D;BE;statusmittlere Gemeinde;22
+624;Schlosswil;D;BE;statusmittlere Gemeinde;22
+625;Tägertschi;D;BE;statustiefe Gemeinde;23
+626;Walkringen;D;BE;ländlich-gemischte Gemeinde;41
+627;Worb;D;BE;statusmittlere Gemeinde;22
+628;Zäziwil;D;BE;statusmittlere Gemeinde;22
+629;Oberhünigen;D;BE;ländlich-gemischte Gemeinde;41
+630;Allmendingen;D;BE;statusmittlere Gemeinde;22
+632;Wichtrach;D;BE;statusmittlere Gemeinde;22
+661;Clavaleyres;D;BE;ländlich-gemischte Gemeinde;41
+662;Ferenbalm;D;BE;statusmittlere Gemeinde;22
+663;Frauenkappelen;D;BE;statusmittlere Gemeinde;22
+664;Golaten;D;BE;ländlich-gemischte Gemeinde;41
+665;Gurbrü;D;BE;ländlich-gemischte Gemeinde;41
+666;Kriechenwil;D;BE;statustiefe Gemeinde;23
+667;Laupen;D;BE;statusmittlere Gemeinde;22
+668;Mühleberg;D;BE;statusmittlere Gemeinde;22
+669;Münchenwiler;D;BE;Kleinagglomerationsgemeinde;31
+670;Neuenegg;D;BE;statusmittlere Gemeinde;22
+671;Wileroltigen;D;BE;ländlich-gemischte Gemeinde;41
+681;Belprahon;F;BE;ländlich-gemischte Gemeinde;41
+683;Champoz;F;BE;ländlich-gemischte Gemeinde;41
+687;Corcelles (BE);F;BE;ländlich-gemischte Gemeinde;41
+690;Court;F;BE;ländlich-gemischte Gemeinde;41
+691;Crémines;F;BE;ländlich-gemischte Gemeinde;41
+692;Eschert;F;BE;ländlich-gemischte Gemeinde;41
+694;Grandval;F;BE;ländlich-gemischte Gemeinde;41
+696;Loveresse;F;BE;ländlich-gemischte Gemeinde;41
+700;Moutier;F;BE;ländlich-gemischte Gemeinde;41
+701;Perrefitte;F;BE;ländlich-gemischte Gemeinde;41
+703;Reconvilier;F;BE;ländlich-gemischte Gemeinde;41
+704;Roches (BE);F;BE;ländlich-gemischte Gemeinde;41
+706;Saicourt;F;BE;ländlich-gemischte Gemeinde;41
+707;Saules (BE);F;BE;ländlich-gemischte Gemeinde;41
+708;Schelten;D;BE;ländlich-gemischte Gemeinde;41
+709;Seehof;D;BE;ländlich-gemischte Gemeinde;41
+711;Sorvilier;F;BE;ländlich-gemischte Gemeinde;41
+713;Tavannes;F;BE;ländlich-gemischte Gemeinde;41
+715;Rebévelier;D;BE;ländlich-gemischte Gemeinde;41
+716;Petit-Val;F;BE;ländlich-gemischte Gemeinde;41
+717;Valbirse;F;BE;ländlich-gemischte Gemeinde;41
+723;La Neuveville;F;BE;ländlich-gemischte Gemeinde;41
+724;Nods;F;BE;Kleinagglomerationsgemeinde;31
+726;Plateau de Diesse;F;BE;Kleinagglomerationsgemeinde;31
+731;Aegerten;D;BE;statusmittlere Gemeinde;22
+732;Bellmund;D;BE;statushohe Gemeinde;21
+733;Brügg;D;BE;statusmittlere Gemeinde;22
+734;Bühl;D;BE;Kleinagglomerationsgemeinde;31
+735;Epsach;D;BE;Kleinagglomerationsgemeinde;31
+736;Hagneck;D;BE;Kleinagglomerationsgemeinde;31
+737;Hermrigen;D;BE;Kleinagglomerationsgemeinde;31
+738;Jens;D;BE;statusmittlere Gemeinde;22
+739;Ipsach;D;BE;statusmittlere Gemeinde;22
+740;Ligerz;D;BE;statusmittlere Gemeinde;22
+741;Merzligen;D;BE;statusmittlere Gemeinde;22
+742;Mörigen;D;BE;statusmittlere Gemeinde;22
+743;Nidau;D;BE;statustiefe Gemeinde;23
+744;Orpund;D;BE;statusmittlere Gemeinde;22
+745;Port;D;BE;statusmittlere Gemeinde;22
+746;Safnern;D;BE;statusmittlere Gemeinde;22
+747;Scheuren;D;BE;statusmittlere Gemeinde;22
+748;Schwadernau;D;BE;statusmittlere Gemeinde;22
+749;Studen (BE);D;BE;statusmittlere Gemeinde;22
+750;Sutz-Lattrigen;D;BE;statusmittlere Gemeinde;22
+751;Täuffelen;D;BE;Kleinagglomerationsgemeinde;31
+754;Walperswil;D;BE;Kleinagglomerationsgemeinde;31
+755;Worben;D;BE;statusmittlere Gemeinde;22
+756;Twann-Tüscherz;D;BE;statusmittlere Gemeinde;22
+761;Därstetten;D;BE;ländlich-gemischte Gemeinde;41
+762;Diemtigen;D;BE;ländlich-gemischte Gemeinde;41
+763;Erlenbach im Simmental;D;BE;ländlich-gemischte Gemeinde;41
+766;Oberwil im Simmental;D;BE;ländlich-gemischte Gemeinde;41
+767;Reutigen;D;BE;Kleinagglomerationsgemeinde;31
+768;Spiez;D;BE;Kleinagglomerationsgemeinde;31
+769;Wimmis;D;BE;Kleinagglomerationsgemeinde;31
+770;Stocken-Höfen;D;BE;Kleinagglomerationsgemeinde;31
+782;Guttannen;D;BE;ländlich-gemischte Gemeinde;41
+783;Hasliberg;D;BE;ländlich-gemischte Gemeinde;41
+784;Innertkirchen;D;BE;ländlich-gemischte Gemeinde;41
+785;Meiringen;D;BE;ländlich-gemischte Gemeinde;41
+786;Schattenhalb;D;BE;ländlich-gemischte Gemeinde;41
+791;Boltigen;D;BE;ländlich-gemischte Gemeinde;41
+792;Lenk;D;BE;ländlich-gemischte Gemeinde;41
+793;St. Stephan;D;BE;ländlich-gemischte Gemeinde;41
+794;Zweisimmen;D;BE;ländlich-gemischte Gemeinde;41
+841;Gsteig;D;BE;ländlich-gemischte Gemeinde;41
+842;Lauenen;D;BE;ländlich-gemischte Gemeinde;41
+843;Saanen;D;BE;ländlich-gemischte Gemeinde;41
+852;Guggisberg;D;BE;ländlich-gemischte Gemeinde;41
+853;Rüschegg;D;BE;ländlich-gemischte Gemeinde;41
+855;Schwarzenburg;D;BE;statustiefe Gemeinde;23
+861;Belp;D;BE;statusmittlere Gemeinde;22
+863;Burgistein;D;BE;Kleinagglomerationsgemeinde;31
+865;Gelterfingen;D;BE;statustiefe Gemeinde;23
+866;Gerzensee;D;BE;statusmittlere Gemeinde;22
+867;Gurzelen;D;BE;Kleinagglomerationsgemeinde;31
+868;Jaberg;D;BE;statusmittlere Gemeinde;22
+869;Kaufdorf;D;BE;statusmittlere Gemeinde;22
+870;Kehrsatz;D;BE;statustiefe Gemeinde;23
+872;Kirchdorf (BE);D;BE;statusmittlere Gemeinde;22
+873;Kirchenthurnen;D;BE;statustiefe Gemeinde;23
+874;Lohnstorf;D;BE;Kleinagglomerationsgemeinde;31
+875;Mühledorf (BE);D;BE;statusmittlere Gemeinde;22
+876;Mühlethurnen;D;BE;statusmittlere Gemeinde;22
+877;Niedermuhlern;D;BE;statustiefe Gemeinde;23
+878;Noflen;D;BE;Kleinagglomerationsgemeinde;31
+879;Riggisberg;D;BE;ländlich-gemischte Gemeinde;41
+880;Rüeggisberg;D;BE;ländlich-gemischte Gemeinde;41
+881;Rümligen;D;BE;statusmittlere Gemeinde;22
+883;Seftigen;D;BE;Kleinagglomerationsgemeinde;31
+884;Toffen;D;BE;statusmittlere Gemeinde;22
+885;Uttigen;D;BE;statusmittlere Gemeinde;22
+886;Wattenwil;D;BE;Kleinagglomerationsgemeinde;31
+888;Wald (BE);D;BE;statusmittlere Gemeinde;22
+901;Eggiwil;D;BE;ländlich-gemischte Gemeinde;41
+902;Langnau im Emmental;D;BE;ländlich-gemischte Gemeinde;41
+903;Lauperswil;D;BE;ländlich-gemischte Gemeinde;41
+904;Röthenbach im Emmental;D;BE;ländlich-gemischte Gemeinde;41
+905;Rüderswil;D;BE;ländlich-gemischte Gemeinde;41
+906;Schangnau;D;BE;ländlich-gemischte Gemeinde;41
+907;Signau;D;BE;ländlich-gemischte Gemeinde;41
+908;Trub;D;BE;ländlich-gemischte Gemeinde;41
+909;Trubschachen;D;BE;ländlich-gemischte Gemeinde;41
+921;Amsoldingen;D;BE;Kleinagglomerationsgemeinde;31
+922;Blumenstein;D;BE;Kleinagglomerationsgemeinde;31
+923;Buchholterberg;D;BE;Kleinagglomerationsgemeinde;31
+924;Eriz;D;BE;Kleinagglomerationsgemeinde;31
+925;Fahrni;D;BE;Kleinagglomerationsgemeinde;31
+927;Heiligenschwendi;D;BE;Kleinagglomerationsgemeinde;31
+928;Heimberg;D;BE;Kleinagglomerationsgemeinde;31
+929;Hilterfingen;D;BE;Kleinagglomerationsgemeinde;31
+931;Homberg;D;BE;Kleinagglomerationsgemeinde;31
+932;Horrenbach-Buchen;D;BE;Kleinagglomerationsgemeinde;31
+934;Oberhofen am Thunersee;D;BE;Kleinagglomerationsgemeinde;31
+935;Oberlangenegg;D;BE;Kleinagglomerationsgemeinde;31
+936;Pohlern;D;BE;Kleinagglomerationsgemeinde;31
+937;Schwendibach;D;BE;Kleinagglomerationsgemeinde;31
+938;Sigriswil;D;BE;Kleinagglomerationsgemeinde;31
+939;Steffisburg;D;BE;Kleinagglomerationsgemeinde;31
+940;Teuffenthal (BE);D;BE;Kleinagglomerationsgemeinde;31
+941;Thierachern;D;BE;Kleinagglomerationsgemeinde;31
+942;Thun;D;BE;Mittelstadt;12
+943;Uebeschi;D;BE;Kleinagglomerationsgemeinde;31
+944;Uetendorf;D;BE;Kleinagglomerationsgemeinde;31
+945;Unterlangenegg;D;BE;Kleinagglomerationsgemeinde;31
+946;Wachseldorn;D;BE;Kleinagglomerationsgemeinde;31
+947;Zwieselberg;D;BE;Kleinagglomerationsgemeinde;31
+948;Forst-Längenbühl;D;BE;Kleinagglomerationsgemeinde;31
+951;Affoltern im Emmental;D;BE;ländlich-gemischte Gemeinde;41
+952;Dürrenroth;D;BE;ländlich-gemischte Gemeinde;41
+953;Eriswil;D;BE;ländlich-gemischte Gemeinde;41
+954;Huttwil;D;BE;ländlich-gemischte Gemeinde;41
+955;Lützelflüh;D;BE;ländlich-gemischte Gemeinde;41
+956;Rüegsau;D;BE;ländlich-gemischte Gemeinde;41
+957;Sumiswald;D;BE;ländlich-gemischte Gemeinde;41
+958;Trachselwald;D;BE;ländlich-gemischte Gemeinde;41
+959;Walterswil (BE);D;BE;ländlich-gemischte Gemeinde;41
+960;Wyssachen;D;BE;ländlich-gemischte Gemeinde;41
+971;Attiswil;D;BE;ländlich-gemischte Gemeinde;41
+972;Berken;D;BE;ländlich-gemischte Gemeinde;41
+973;Bettenhausen;D;BE;ländlich-gemischte Gemeinde;41
+975;Farnern;D;BE;ländlich-gemischte Gemeinde;41
+976;Graben;D;BE;ländlich-gemischte Gemeinde;41
+977;Heimenhausen;D;BE;ländlich-gemischte Gemeinde;41
+978;Hermiswil;D;BE;ländlich-gemischte Gemeinde;41
+979;Herzogenbuchsee;D;BE;ländlich-gemischte Gemeinde;41
+980;Inkwil;D;BE;ländlich-gemischte Gemeinde;41
+981;Niederbipp;D;BE;Kleinagglomerationsgemeinde;31
+982;Niederönz;D;BE;ländlich-gemischte Gemeinde;41
+983;Oberbipp;D;BE;ländlich-gemischte Gemeinde;41
+985;Ochlenberg;D;BE;ländlich-gemischte Gemeinde;41
+987;Rumisberg;D;BE;ländlich-gemischte Gemeinde;41
+988;Seeberg;D;BE;ländlich-gemischte Gemeinde;41
+989;Thörigen;D;BE;ländlich-gemischte Gemeinde;41
+990;Walliswil bei Niederbipp;D;BE;ländlich-gemischte Gemeinde;41
+991;Walliswil bei Wangen;D;BE;ländlich-gemischte Gemeinde;41
+992;Wangen an der Aare;D;BE;ländlich-gemischte Gemeinde;41
+993;Wangenried;D;BE;ländlich-gemischte Gemeinde;41
+995;Wiedlisbach;D;BE;ländlich-gemischte Gemeinde;41
+996;Wolfisberg;D;BE;ländlich-gemischte Gemeinde;41
+1001;Doppleschwand;D;LU;ländlich-gemischte Gemeinde;41
+1002;Entlebuch;D;LU;ländlich-gemischte Gemeinde;41
+1004;Flühli;D;LU;ländlich-gemischte Gemeinde;41
+1005;Hasle (LU);D;LU;ländlich-gemischte Gemeinde;41
+1007;Romoos;D;LU;ländlich-gemischte Gemeinde;41
+1008;Schüpfheim;D;LU;ländlich-gemischte Gemeinde;41
+1009;Werthenstein;D;LU;ländlich-gemischte Gemeinde;41
+1010;Escholzmatt-Marbach;D;LU;ländlich-gemischte Gemeinde;41
+1021;Aesch (LU);D;LU;ländlich-gemischte Gemeinde;41
+1022;Altwis;D;LU;ländlich-gemischte Gemeinde;41
+1023;Ballwil;D;LU;Kleinagglomerationsgemeinde;31
+1024;Emmen;D;LU;statustiefe Gemeinde;23
+1025;Ermensee;D;LU;ländlich-gemischte Gemeinde;41
+1026;Eschenbach (LU);D;LU;statusmittlere Gemeinde;22
+1030;Hitzkirch;D;LU;ländlich-gemischte Gemeinde;41
+1031;Hochdorf;D;LU;ländlich-gemischte Gemeinde;41
+1032;Hohenrain;D;LU;ländlich-gemischte Gemeinde;41
+1033;Inwil;D;LU;statusmittlere Gemeinde;22
+1037;Rain;D;LU;statusmittlere Gemeinde;22
+1039;Römerswil;D;LU;ländlich-gemischte Gemeinde;41
+1040;Rothenburg;D;LU;statusmittlere Gemeinde;22
+1041;Schongau;D;LU;ländlich-gemischte Gemeinde;41
+1051;Adligenswil;D;LU;statushohe Gemeinde;21
+1052;Buchrain;D;LU;statusmittlere Gemeinde;22
+1053;Dierikon;D;LU;statusmittlere Gemeinde;22
+1054;Ebikon;D;LU;statusmittlere Gemeinde;22
+1055;Gisikon;D;LU;Kleinagglomerationsgemeinde;31
+1056;Greppen;D;LU;Kleinagglomerationsgemeinde;31
+1057;Honau;D;LU;Kleinagglomerationsgemeinde;31
+1058;Horw;D;LU;statusmittlere Gemeinde;22
+1059;Kriens;D;LU;statusmittlere Gemeinde;22
+1061;Luzern;D;LU;Mittelstadt;12
+1062;Malters;D;LU;statusmittlere Gemeinde;22
+1063;Meggen;D;LU;statushohe Gemeinde;21
+1064;Meierskappel;D;LU;statusmittlere Gemeinde;22
+1065;Root;D;LU;Kleinagglomerationsgemeinde;31
+1066;Schwarzenberg;D;LU;statusmittlere Gemeinde;22
+1067;Udligenswil;D;LU;statusmittlere Gemeinde;22
+1068;Vitznau;D;LU;ländlich-gemischte Gemeinde;41
+1069;Weggis;D;LU;Kleinagglomerationsgemeinde;31
+1081;Beromünster;D;LU;ländlich-gemischte Gemeinde;41
+1082;Büron;D;LU;ländlich-gemischte Gemeinde;41
+1083;Buttisholz;D;LU;ländlich-gemischte Gemeinde;41
+1084;Eich;D;LU;ländlich-gemischte Gemeinde;41
+1085;Geuensee;D;LU;ländlich-gemischte Gemeinde;41
+1086;Grosswangen;D;LU;ländlich-gemischte Gemeinde;41
+1088;Hildisrieden;D;LU;statusmittlere Gemeinde;22
+1089;Knutwil;D;LU;ländlich-gemischte Gemeinde;41
+1091;Mauensee;D;LU;ländlich-gemischte Gemeinde;41
+1093;Neuenkirch;D;LU;statusmittlere Gemeinde;22
+1094;Nottwil;D;LU;ländlich-gemischte Gemeinde;41
+1095;Oberkirch;D;LU;Kleinagglomerationsgemeinde;31
+1097;Rickenbach (LU);D;LU;ländlich-gemischte Gemeinde;41
+1098;Ruswil;D;LU;ländlich-gemischte Gemeinde;41
+1099;Schenkon;D;LU;Kleinagglomerationsgemeinde;31
+1100;Schlierbach;D;LU;ländlich-gemischte Gemeinde;41
+1102;Sempach;D;LU;ländlich-gemischte Gemeinde;41
+1103;Sursee;D;LU;Kleinagglomerationsgemeinde;31
+1104;Triengen;D;LU;ländlich-gemischte Gemeinde;41
+1107;Wolhusen;D;LU;ländlich-gemischte Gemeinde;41
+1121;Alberswil;D;LU;ländlich-gemischte Gemeinde;41
+1122;Altbüron;D;LU;ländlich-gemischte Gemeinde;41
+1123;Altishofen;D;LU;ländlich-gemischte Gemeinde;41
+1125;Dagmersellen;D;LU;ländlich-gemischte Gemeinde;41
+1126;Ebersecken;D;LU;ländlich-gemischte Gemeinde;41
+1127;Egolzwil;D;LU;ländlich-gemischte Gemeinde;41
+1128;Ettiswil;D;LU;ländlich-gemischte Gemeinde;41
+1129;Fischbach;D;LU;ländlich-gemischte Gemeinde;41
+1130;Gettnau;D;LU;ländlich-gemischte Gemeinde;41
+1131;Grossdietwil;D;LU;ländlich-gemischte Gemeinde;41
+1132;Hergiswil bei Willisau;D;LU;ländlich-gemischte Gemeinde;41
+1135;Luthern;D;LU;ländlich-gemischte Gemeinde;41
+1136;Menznau;D;LU;ländlich-gemischte Gemeinde;41
+1137;Nebikon;D;LU;ländlich-gemischte Gemeinde;41
+1139;Pfaffnau;D;LU;ländlich-gemischte Gemeinde;41
+1140;Reiden;D;LU;ländlich-gemischte Gemeinde;41
+1142;Roggliswil;D;LU;ländlich-gemischte Gemeinde;41
+1143;Schötz;D;LU;ländlich-gemischte Gemeinde;41
+1145;Ufhusen;D;LU;ländlich-gemischte Gemeinde;41
+1146;Wauwil;D;LU;ländlich-gemischte Gemeinde;41
+1147;Wikon;D;LU;Kleinagglomerationsgemeinde;31
+1150;Zell (LU);D;LU;ländlich-gemischte Gemeinde;41
+1151;Willisau;D;LU;ländlich-gemischte Gemeinde;41
+1201;Altdorf (UR);D;UR;Kleinagglomerationsgemeinde;31
+1202;Andermatt;D;UR;ländlich-gemischte Gemeinde;41
+1203;Attinghausen;D;UR;Kleinagglomerationsgemeinde;31
+1204;Bauen;D;UR;Kleinagglomerationsgemeinde;31
+1205;Bürglen (UR);D;UR;Kleinagglomerationsgemeinde;31
+1206;Erstfeld;D;UR;Kleinagglomerationsgemeinde;31
+1207;Flüelen;D;UR;Kleinagglomerationsgemeinde;31
+1208;Göschenen;D;UR;ländlich-gemischte Gemeinde;41
+1209;Gurtnellen;D;UR;ländlich-gemischte Gemeinde;41
+1210;Hospental;D;UR;ländlich-gemischte Gemeinde;41
+1211;Isenthal;D;UR;Kleinagglomerationsgemeinde;31
+1212;Realp;D;UR;ländlich-gemischte Gemeinde;41
+1213;Schattdorf;D;UR;Kleinagglomerationsgemeinde;31
+1214;Seedorf (UR);D;UR;Kleinagglomerationsgemeinde;31
+1215;Seelisberg;D;UR;ländlich-gemischte Gemeinde;41
+1216;Silenen;D;UR;Kleinagglomerationsgemeinde;31
+1217;Sisikon;D;UR;ländlich-gemischte Gemeinde;41
+1218;Spiringen;D;UR;Kleinagglomerationsgemeinde;31
+1219;Unterschächen;D;UR;Kleinagglomerationsgemeinde;31
+1220;Wassen;D;UR;ländlich-gemischte Gemeinde;41
+1301;Einsiedeln;D;SZ;Kleinagglomerationsgemeinde;31
+1311;Gersau;D;SZ;ländlich-gemischte Gemeinde;41
+1321;Feusisberg;D;SZ;statushohe Gemeinde;21
+1322;Freienbach;D;SZ;statushohe Gemeinde;21
+1323;Wollerau;D;SZ;statushohe Gemeinde;21
+1331;Küssnacht (SZ);D;SZ;Kleinagglomerationsgemeinde;31
+1341;Altendorf;D;SZ;Kleinagglomerationsgemeinde;31
+1342;Galgenen;D;SZ;Kleinagglomerationsgemeinde;31
+1343;Innerthal;D;SZ;Kleinagglomerationsgemeinde;31
+1344;Lachen;D;SZ;Kleinagglomerationsgemeinde;31
+1345;Reichenburg;D;SZ;Kleinagglomerationsgemeinde;31
+1346;Schübelbach;D;SZ;Kleinagglomerationsgemeinde;31
+1347;Tuggen;D;SZ;Kleinagglomerationsgemeinde;31
+1348;Vorderthal;D;SZ;Kleinagglomerationsgemeinde;31
+1349;Wangen (SZ);D;SZ;Kleinagglomerationsgemeinde;31
+1361;Alpthal;D;SZ;ländlich-gemischte Gemeinde;41
+1362;Arth;D;SZ;Kleinagglomerationsgemeinde;31
+1363;Illgau;D;SZ;ländlich-gemischte Gemeinde;41
+1364;Ingenbohl;D;SZ;ländlich-gemischte Gemeinde;41
+1365;Lauerz;D;SZ;ländlich-gemischte Gemeinde;41
+1366;Morschach;D;SZ;ländlich-gemischte Gemeinde;41
+1367;Muotathal;D;SZ;ländlich-gemischte Gemeinde;41
+1368;Oberiberg;D;SZ;ländlich-gemischte Gemeinde;41
+1369;Riemenstalden;D;SZ;ländlich-gemischte Gemeinde;41
+1370;Rothenthurm;D;SZ;ländlich-gemischte Gemeinde;41
+1371;Sattel;D;SZ;Kleinagglomerationsgemeinde;31
+1372;Schwyz;D;SZ;Kleinagglomerationsgemeinde;31
+1373;Steinen;D;SZ;ländlich-gemischte Gemeinde;41
+1374;Steinerberg;D;SZ;ländlich-gemischte Gemeinde;41
+1375;Unteriberg;D;SZ;ländlich-gemischte Gemeinde;41
+1401;Alpnach;D;OW;ländlich-gemischte Gemeinde;41
+1402;Engelberg;D;OW;ländlich-gemischte Gemeinde;41
+1403;Giswil;D;OW;ländlich-gemischte Gemeinde;41
+1404;Kerns;D;OW;ländlich-gemischte Gemeinde;41
+1405;Lungern;D;OW;ländlich-gemischte Gemeinde;41
+1406;Sachseln;D;OW;ländlich-gemischte Gemeinde;41
+1407;Sarnen;D;OW;Kleinagglomerationsgemeinde;31
+1501;Beckenried;D;NW;ländlich-gemischte Gemeinde;41
+1502;Buochs;D;NW;ländlich-gemischte Gemeinde;41
+1503;Dallenwil;D;NW;ländlich-gemischte Gemeinde;41
+1504;Emmetten;D;NW;ländlich-gemischte Gemeinde;41
+1505;Ennetbürgen;D;NW;ländlich-gemischte Gemeinde;41
+1506;Ennetmoos;D;NW;ländlich-gemischte Gemeinde;41
+1507;Hergiswil (NW);D;NW;statushohe Gemeinde;21
+1508;Oberdorf (NW);D;NW;Kleinagglomerationsgemeinde;31
+1509;Stans;D;NW;Kleinagglomerationsgemeinde;31
+1510;Stansstad;D;NW;Kleinagglomerationsgemeinde;31
+1511;Wolfenschiessen;D;NW;ländlich-gemischte Gemeinde;41
+1630;Glarus Nord;D;GL;Kleinagglomerationsgemeinde;31
+1631;Glarus Süd;D;GL;ländlich-gemischte Gemeinde;41
+1632;Glarus;D;GL;Kleinagglomerationsgemeinde;31
+1701;Baar;D;ZG;statusmittlere Gemeinde;22
+1702;Cham;D;ZG;statushohe Gemeinde;21
+1703;Hünenberg;D;ZG;statushohe Gemeinde;21
+1704;Menzingen;D;ZG;statusmittlere Gemeinde;22
+1705;Neuheim;D;ZG;statushohe Gemeinde;21
+1706;Oberägeri;D;ZG;statusmittlere Gemeinde;22
+1707;Risch;D;ZG;statusmittlere Gemeinde;22
+1708;Steinhausen;D;ZG;statusmittlere Gemeinde;22
+1709;Unterägeri;D;ZG;statusmittlere Gemeinde;22
+1710;Walchwil;D;ZG;statushohe Gemeinde;21
+1711;Zug;D;ZG;Mittelstadt;12
+2004;Bussy (FR);F;FR;ländlich-gemischte Gemeinde;41
+2005;Châbles;F;FR;ländlich-gemischte Gemeinde;41
+2008;Châtillon (FR);F;FR;ländlich-gemischte Gemeinde;41
+2009;Cheiry;F;FR;ländlich-gemischte Gemeinde;41
+2010;Cheyres;F;FR;Kleinagglomerationsgemeinde;31
+2011;Cugy (FR);F;FR;ländlich-gemischte Gemeinde;41
+2013;Domdidier;F;FR;ländlich-gemischte Gemeinde;41
+2014;Dompierre (FR);F;FR;ländlich-gemischte Gemeinde;41
+2015;Estavayer-le-Lac;F;FR;ländlich-gemischte Gemeinde;41
+2016;Fétigny;F;FR;ländlich-gemischte Gemeinde;41
+2022;Gletterens;F;FR;ländlich-gemischte Gemeinde;41
+2024;Léchelles;F;FR;ländlich-gemischte Gemeinde;41
+2025;Lully (FR);F;FR;ländlich-gemischte Gemeinde;41
+2027;Ménières;F;FR;ländlich-gemischte Gemeinde;41
+2029;Montagny (FR);F;FR;ländlich-gemischte Gemeinde;41
+2033;Morens (FR);F;FR;ländlich-gemischte Gemeinde;41
+2034;Murist;F;FR;ländlich-gemischte Gemeinde;41
+2035;Nuvilly;F;FR;ländlich-gemischte Gemeinde;41
+2038;Prévondavaux;F;FR;ländlich-gemischte Gemeinde;41
+2039;Rueyres-les-Prés;F;FR;ländlich-gemischte Gemeinde;41
+2040;Russy;F;FR;ländlich-gemischte Gemeinde;41
+2041;Saint-Aubin (FR);F;FR;ländlich-gemischte Gemeinde;41
+2043;Sévaz;F;FR;ländlich-gemischte Gemeinde;41
+2044;Surpierre;F;FR;ländlich-gemischte Gemeinde;41
+2045;Vallon;F;FR;ländlich-gemischte Gemeinde;41
+2047;Villeneuve (FR);F;FR;ländlich-gemischte Gemeinde;41
+2049;Vuissens;F;FR;ländlich-gemischte Gemeinde;41
+2050;Les Montets;F;FR;ländlich-gemischte Gemeinde;41
+2051;Delley-Portalban;F;FR;ländlich-gemischte Gemeinde;41
+2052;Vernay;F;FR;ländlich-gemischte Gemeinde;41
+2061;Auboranges;F;FR;statushohe Gemeinde;21
+2063;Billens-Hennens;F;FR;ländlich-gemischte Gemeinde;41
+2066;Chapelle (Glâne);F;FR;statusmittlere Gemeinde;22
+2067;Le Châtelard;F;FR;ländlich-gemischte Gemeinde;41
+2068;Châtonnaye;F;FR;ländlich-gemischte Gemeinde;41
+2072;Ecublens (FR);F;FR;statustiefe Gemeinde;23
+2079;Grangettes;F;FR;ländlich-gemischte Gemeinde;41
+2086;Massonnens;F;FR;ländlich-gemischte Gemeinde;41
+2087;Mézières (FR);F;FR;ländlich-gemischte Gemeinde;41
+2089;Montet (Glâne);F;FR;statusmittlere Gemeinde;22
+2096;Romont (FR);F;FR;ländlich-gemischte Gemeinde;41
+2097;Rue;F;FR;ländlich-gemischte Gemeinde;41
+2099;Siviriez;F;FR;ländlich-gemischte Gemeinde;41
+2102;Ursy;F;FR;ländlich-gemischte Gemeinde;41
+2111;Villaz-Saint-Pierre;F;FR;ländlich-gemischte Gemeinde;41
+2113;Vuisternens-devant-Romont;F;FR;ländlich-gemischte Gemeinde;41
+2114;Villorsonnens;F;FR;ländlich-gemischte Gemeinde;41
+2115;Torny;F;FR;ländlich-gemischte Gemeinde;41
+2116;La Folliaz;F;FR;ländlich-gemischte Gemeinde;41
+2121;Haut-Intyamon;F;FR;ländlich-gemischte Gemeinde;41
+2122;Pont-en-Ogoz;F;FR;Kleinagglomerationsgemeinde;31
+2123;Botterens;F;FR;Kleinagglomerationsgemeinde;31
+2124;Broc;F;FR;Kleinagglomerationsgemeinde;31
+2125;Bulle;F;FR;Kleinstadt;13
+2128;Châtel-sur-Montsalvens;F;FR;Kleinagglomerationsgemeinde;31
+2129;Corbières;F;FR;Kleinagglomerationsgemeinde;31
+2130;Crésuz;F;FR;Kleinagglomerationsgemeinde;31
+2131;Echarlens;F;FR;Kleinagglomerationsgemeinde;31
+2134;Grandvillard;F;FR;Kleinagglomerationsgemeinde;31
+2135;Gruyères;F;FR;Kleinagglomerationsgemeinde;31
+2137;Hauteville;F;FR;Kleinagglomerationsgemeinde;31
+2138;Jaun;D;FR;ländlich-gemischte Gemeinde;41
+2140;Marsens;F;FR;Kleinagglomerationsgemeinde;31
+2143;Morlon;F;FR;Kleinagglomerationsgemeinde;31
+2145;Le Pâquier (FR);F;FR;Kleinagglomerationsgemeinde;31
+2147;Pont-la-Ville;F;FR;Kleinagglomerationsgemeinde;31
+2148;Riaz;F;FR;Kleinagglomerationsgemeinde;31
+2149;La Roche;F;FR;Kleinagglomerationsgemeinde;31
+2152;Sâles;F;FR;Kleinagglomerationsgemeinde;31
+2153;Sorens;F;FR;Kleinagglomerationsgemeinde;31
+2155;Vaulruz;F;FR;Kleinagglomerationsgemeinde;31
+2160;Vuadens;F;FR;Kleinagglomerationsgemeinde;31
+2162;Bas-Intyamon;F;FR;Kleinagglomerationsgemeinde;31
+2163;Val-de-Charmey;F;FR;Kleinagglomerationsgemeinde;31
+2171;Arconciel;F;FR;statusmittlere Gemeinde;22
+2172;Autafond;F;FR;statustiefe Gemeinde;23
+2173;Autigny;F;FR;statusmittlere Gemeinde;22
+2174;Avry;F;FR;statusmittlere Gemeinde;22
+2175;Belfaux;F;FR;statusmittlere Gemeinde;22
+2177;Chénens;F;FR;statusmittlere Gemeinde;22
+2179;Chésopelloz;F;FR;statusmittlere Gemeinde;22
+2183;Corminboeuf;F;FR;statushohe Gemeinde;21
+2184;Corpataux-Magnedens;F;FR;statusmittlere Gemeinde;22
+2185;Corserey;F;FR;ländlich-gemischte Gemeinde;41
+2186;Cottens (FR);F;FR;statusmittlere Gemeinde;22
+2189;Ependes (FR);F;FR;statusmittlere Gemeinde;22
+2192;Farvagny;F;FR;statusmittlere Gemeinde;22
+2194;Ferpicloz;F;FR;statusmittlere Gemeinde;22
+2196;Fribourg;F;FR;Mittelstadt;12
+2197;Givisiez;F;FR;statustiefe Gemeinde;23
+2198;Granges-Paccot;F;FR;statustiefe Gemeinde;23
+2200;Grolley;F;FR;statusmittlere Gemeinde;22
+2206;Marly;F;FR;statusmittlere Gemeinde;22
+2208;Matran;F;FR;statusmittlere Gemeinde;22
+2211;Neyruz (FR);F;FR;statusmittlere Gemeinde;22
+2213;Noréaz;F;FR;statusmittlere Gemeinde;22
+2216;Pierrafortscha;F;FR;statusmittlere Gemeinde;22
+2217;Ponthaux;F;FR;statusmittlere Gemeinde;22
+2220;Le Mouret;F;FR;statusmittlere Gemeinde;22
+2221;Prez-vers-Noréaz;F;FR;statusmittlere Gemeinde;22
+2222;Rossens (FR);F;FR;statusmittlere Gemeinde;22
+2223;Le Glèbe;F;FR;ländlich-gemischte Gemeinde;41
+2225;Senèdes;F;FR;statusmittlere Gemeinde;22
+2226;Treyvaux;F;FR;statusmittlere Gemeinde;22
+2228;Villars-sur-Glâne;F;FR;statustiefe Gemeinde;23
+2230;Villarsel-sur-Marly;F;FR;statustiefe Gemeinde;23
+2231;Vuisternens-en-Ogoz;F;FR;Kleinagglomerationsgemeinde;31
+2233;Hauterive (FR);F;FR;statusmittlere Gemeinde;22
+2234;La Brillaz;F;FR;statusmittlere Gemeinde;22
+2235;La Sonnaz;F;FR;statusmittlere Gemeinde;22
+2243;Barberêche;F;FR;statusmittlere Gemeinde;22
+2250;Courgevaux;D;FR;Kleinagglomerationsgemeinde;31
+2251;Courlevon;D;FR;ländlich-gemischte Gemeinde;41
+2254;Courtepin;F;FR;ländlich-gemischte Gemeinde;41
+2257;Cressier (FR);F;FR;Kleinagglomerationsgemeinde;31
+2258;Fräschels;D;FR;ländlich-gemischte Gemeinde;41
+2259;Galmiz;D;FR;ländlich-gemischte Gemeinde;41
+2260;Gempenach;D;FR;statusmittlere Gemeinde;22
+2261;Greng;D;FR;ländlich-gemischte Gemeinde;41
+2262;Gurmels;D;FR;Kleinagglomerationsgemeinde;31
+2264;Jeuss;D;FR;Kleinagglomerationsgemeinde;31
+2265;Kerzers;D;FR;ländlich-gemischte Gemeinde;41
+2266;Kleinbösingen;D;FR;Kleinagglomerationsgemeinde;31
+2270;Lurtigen;D;FR;ländlich-gemischte Gemeinde;41
+2271;Meyriez;D;FR;Kleinagglomerationsgemeinde;31
+2272;Misery-Courtion;F;FR;statusmittlere Gemeinde;22
+2274;Muntelier;D;FR;Kleinagglomerationsgemeinde;31
+2275;Murten;D;FR;Kleinagglomerationsgemeinde;31
+2276;Ried bei Kerzers;D;FR;ländlich-gemischte Gemeinde;41
+2277;Salvenach;D;FR;Kleinagglomerationsgemeinde;31
+2278;Ulmiz;D;FR;statusmittlere Gemeinde;22
+2279;Villarepos;F;FR;Kleinagglomerationsgemeinde;31
+2280;Bas-Vully;F;FR;ländlich-gemischte Gemeinde;41
+2281;Haut-Vully;F;FR;ländlich-gemischte Gemeinde;41
+2283;Wallenried;F;FR;Kleinagglomerationsgemeinde;31
+2291;Alterswil;D;FR;Kleinagglomerationsgemeinde;31
+2292;Brünisried;D;FR;Kleinagglomerationsgemeinde;31
+2293;Düdingen;D;FR;Kleinagglomerationsgemeinde;31
+2294;Giffers;D;FR;Kleinagglomerationsgemeinde;31
+2295;Bösingen;D;FR;statusmittlere Gemeinde;22
+2296;Heitenried;D;FR;Kleinagglomerationsgemeinde;31
+2298;Oberschrot;D;FR;ländlich-gemischte Gemeinde;41
+2299;Plaffeien;D;FR;ländlich-gemischte Gemeinde;41
+2300;Plasselb;D;FR;Kleinagglomerationsgemeinde;31
+2301;Rechthalten;D;FR;Kleinagglomerationsgemeinde;31
+2302;St. Antoni;D;FR;ländlich-gemischte Gemeinde;41
+2303;St. Silvester;D;FR;Kleinagglomerationsgemeinde;31
+2304;St. Ursen;D;FR;Kleinagglomerationsgemeinde;31
+2305;Schmitten (FR);D;FR;Kleinagglomerationsgemeinde;31
+2306;Tafers;D;FR;ländlich-gemischte Gemeinde;41
+2307;Tentlingen;D;FR;statusmittlere Gemeinde;22
+2308;Ueberstorf;D;FR;statusmittlere Gemeinde;22
+2309;Wünnewil-Flamatt;D;FR;statustiefe Gemeinde;23
+2310;Zumholz;D;FR;ländlich-gemischte Gemeinde;41
+2321;Attalens;F;FR;Kleinagglomerationsgemeinde;31
+2323;Bossonnens;F;FR;Kleinagglomerationsgemeinde;31
+2325;Châtel-Saint-Denis;F;FR;Kleinagglomerationsgemeinde;31
+2328;Granges (Veveyse);F;FR;Kleinagglomerationsgemeinde;31
+2333;Remaufens;F;FR;Kleinagglomerationsgemeinde;31
+2335;Saint-Martin (FR);F;FR;Kleinagglomerationsgemeinde;31
+2336;Semsales;F;FR;Kleinagglomerationsgemeinde;31
+2337;Le Flon;F;FR;ländlich-gemischte Gemeinde;41
+2338;La Verrerie;F;FR;Kleinagglomerationsgemeinde;31
+2401;Egerkingen;D;SO;ländlich-gemischte Gemeinde;41
+2402;Härkingen;D;SO;ländlich-gemischte Gemeinde;41
+2403;Kestenholz;D;SO;ländlich-gemischte Gemeinde;41
+2404;Neuendorf;D;SO;ländlich-gemischte Gemeinde;41
+2405;Niederbuchsiten;D;SO;ländlich-gemischte Gemeinde;41
+2406;Oberbuchsiten;D;SO;ländlich-gemischte Gemeinde;41
+2407;Oensingen;D;SO;Kleinagglomerationsgemeinde;31
+2408;Wolfwil;D;SO;ländlich-gemischte Gemeinde;41
+2421;Aedermannsdorf;D;SO;ländlich-gemischte Gemeinde;41
+2422;Balsthal;D;SO;ländlich-gemischte Gemeinde;41
+2423;Gänsbrunnen;D;SO;ländlich-gemischte Gemeinde;41
+2424;Herbetswil;D;SO;ländlich-gemischte Gemeinde;41
+2425;Holderbank (SO);D;SO;ländlich-gemischte Gemeinde;41
+2426;Laupersdorf;D;SO;ländlich-gemischte Gemeinde;41
+2427;Matzendorf;D;SO;ländlich-gemischte Gemeinde;41
+2428;Mümliswil-Ramiswil;D;SO;ländlich-gemischte Gemeinde;41
+2429;Welschenrohr;D;SO;ländlich-gemischte Gemeinde;41
+2445;Biezwil;D;SO;Kleinagglomerationsgemeinde;31
+2455;Lüterkofen-Ichertswil;D;SO;Kleinagglomerationsgemeinde;31
+2456;Lüterswil-Gächliwil;D;SO;ländlich-gemischte Gemeinde;41
+2457;Messen;D;SO;Kleinagglomerationsgemeinde;31
+2461;Schnottwil;D;SO;Kleinagglomerationsgemeinde;31
+2463;Unterramsern;D;SO;Kleinagglomerationsgemeinde;31
+2464;Lüsslingen-Nennigkofen;D;SO;Kleinagglomerationsgemeinde;31
+2465;Buchegg;D;SO;Kleinagglomerationsgemeinde;31
+2471;Bättwil;D;SO;statushohe Gemeinde;21
+2472;Büren (SO);D;SO;statusmittlere Gemeinde;22
+2473;Dornach;D;SO;statusmittlere Gemeinde;22
+2474;Gempen;D;SO;statushohe Gemeinde;21
+2475;Hochwald;D;SO;statusmittlere Gemeinde;22
+2476;Hofstetten-Flüh;D;SO;statushohe Gemeinde;21
+2477;Metzerlen-Mariastein;D;SO;statusmittlere Gemeinde;22
+2478;Nuglar-St. Pantaleon;D;SO;statusmittlere Gemeinde;22
+2479;Rodersdorf;D;SO;statusmittlere Gemeinde;22
+2480;Seewen;D;SO;statusmittlere Gemeinde;22
+2481;Witterswil;D;SO;statusmittlere Gemeinde;22
+2491;Hauenstein-Ifenthal;D;SO;Kleinagglomerationsgemeinde;31
+2492;Kienberg;D;SO;Kleinagglomerationsgemeinde;31
+2493;Lostorf;D;SO;Kleinagglomerationsgemeinde;31
+2495;Niedergösgen;D;SO;Kleinagglomerationsgemeinde;31
+2497;Obergösgen;D;SO;Kleinagglomerationsgemeinde;31
+2498;Rohr (SO);D;SO;Kleinagglomerationsgemeinde;31
+2499;Stüsslingen;D;SO;Kleinagglomerationsgemeinde;31
+2500;Trimbach;D;SO;Kleinagglomerationsgemeinde;31
+2501;Winznau;D;SO;Kleinagglomerationsgemeinde;31
+2502;Wisen (SO);D;SO;Kleinagglomerationsgemeinde;31
+2503;Erlinsbach (SO);D;SO;Kleinagglomerationsgemeinde;31
+2511;Aeschi (SO);D;SO;ländlich-gemischte Gemeinde;41
+2513;Biberist;D;SO;Kleinagglomerationsgemeinde;31
+2514;Bolken;D;SO;ländlich-gemischte Gemeinde;41
+2516;Deitingen;D;SO;Kleinagglomerationsgemeinde;31
+2517;Derendingen;D;SO;Kleinagglomerationsgemeinde;31
+2518;Etziken;D;SO;Kleinagglomerationsgemeinde;31
+2519;Gerlafingen;D;SO;Kleinagglomerationsgemeinde;31
+2520;Halten;D;SO;Kleinagglomerationsgemeinde;31
+2523;Horriwil;D;SO;Kleinagglomerationsgemeinde;31
+2524;Hüniken;D;SO;Kleinagglomerationsgemeinde;31
+2525;Kriegstetten;D;SO;Kleinagglomerationsgemeinde;31
+2526;Lohn-Ammannsegg;D;SO;Kleinagglomerationsgemeinde;31
+2527;Luterbach;D;SO;Kleinagglomerationsgemeinde;31
+2528;Obergerlafingen;D;SO;Kleinagglomerationsgemeinde;31
+2529;Oekingen;D;SO;Kleinagglomerationsgemeinde;31
+2530;Recherswil;D;SO;Kleinagglomerationsgemeinde;31
+2532;Subingen;D;SO;Kleinagglomerationsgemeinde;31
+2534;Zuchwil;D;SO;Kleinagglomerationsgemeinde;31
+2535;Drei Höfe;D;SO;Kleinagglomerationsgemeinde;31
+2541;Balm bei Günsberg;D;SO;ländlich-gemischte Gemeinde;41
+2542;Bellach;D;SO;Kleinagglomerationsgemeinde;31
+2543;Bettlach;D;SO;Kleinagglomerationsgemeinde;31
+2544;Feldbrunnen-St. Niklaus;D;SO;Kleinagglomerationsgemeinde;31
+2545;Flumenthal;D;SO;ländlich-gemischte Gemeinde;41
+2546;Grenchen;D;SO;Kleinstadt;13
+2547;Günsberg;D;SO;Kleinagglomerationsgemeinde;31
+2548;Hubersdorf;D;SO;Kleinagglomerationsgemeinde;31
+2549;Kammersrohr;D;SO;ländlich-gemischte Gemeinde;41
+2550;Langendorf;D;SO;Kleinagglomerationsgemeinde;31
+2551;Lommiswil;D;SO;Kleinagglomerationsgemeinde;31
+2553;Oberdorf (SO);D;SO;Kleinagglomerationsgemeinde;31
+2554;Riedholz;D;SO;Kleinagglomerationsgemeinde;31
+2555;Rüttenen;D;SO;Kleinagglomerationsgemeinde;31
+2556;Selzach;D;SO;Kleinagglomerationsgemeinde;31
+2571;Boningen;D;SO;Kleinagglomerationsgemeinde;31
+2572;Däniken;D;SO;Kleinagglomerationsgemeinde;31
+2573;Dulliken;D;SO;Kleinagglomerationsgemeinde;31
+2574;Eppenberg-Wöschnau;D;SO;Kleinagglomerationsgemeinde;31
+2575;Fulenbach;D;SO;ländlich-gemischte Gemeinde;41
+2576;Gretzenbach;D;SO;Kleinagglomerationsgemeinde;31
+2578;Gunzgen;D;SO;ländlich-gemischte Gemeinde;41
+2579;Hägendorf;D;SO;Kleinagglomerationsgemeinde;31
+2580;Kappel (SO);D;SO;Kleinagglomerationsgemeinde;31
+2581;Olten;D;SO;Kleinstadt;13
+2582;Rickenbach (SO);D;SO;Kleinagglomerationsgemeinde;31
+2583;Schönenwerd;D;SO;Kleinagglomerationsgemeinde;31
+2584;Starrkirch-Wil;D;SO;Kleinagglomerationsgemeinde;31
+2585;Walterswil (SO);D;SO;Kleinagglomerationsgemeinde;31
+2586;Wangen bei Olten;D;SO;Kleinagglomerationsgemeinde;31
+2601;Solothurn;D;SO;Kleinstadt;13
+2611;Bärschwil;D;SO;statusmittlere Gemeinde;22
+2612;Beinwil (SO);D;SO;ländlich-gemischte Gemeinde;41
+2613;Breitenbach;D;SO;statustiefe Gemeinde;23
+2614;Büsserach;D;SO;statusmittlere Gemeinde;22
+2615;Erschwil;D;SO;ländlich-gemischte Gemeinde;41
+2616;Fehren;D;SO;statusmittlere Gemeinde;22
+2617;Grindel;D;SO;ländlich-gemischte Gemeinde;41
+2618;Himmelried;D;SO;statusmittlere Gemeinde;22
+2619;Kleinlützel;D;SO;statusmittlere Gemeinde;22
+2620;Meltingen;D;SO;statusmittlere Gemeinde;22
+2621;Nunningen;D;SO;statusmittlere Gemeinde;22
+2622;Zullwil;D;SO;statusmittlere Gemeinde;22
+2701;Basel;D;BS;Grossstadt;11
+2702;Bettingen;D;BS;statushohe Gemeinde;21
+2703;Riehen;D;BS;statushohe Gemeinde;21
+2761;Aesch (BL);D;BL;statusmittlere Gemeinde;22
+2762;Allschwil;D;BL;statusmittlere Gemeinde;22
+2763;Arlesheim;D;BL;statushohe Gemeinde;21
+2764;Biel-Benken;D;BL;statushohe Gemeinde;21
+2765;Binningen;D;BL;statushohe Gemeinde;21
+2766;Birsfelden;D;BL;statustiefe Gemeinde;23
+2767;Bottmingen;D;BL;statushohe Gemeinde;21
+2768;Ettingen;D;BL;statushohe Gemeinde;21
+2769;Münchenstein;D;BL;statusmittlere Gemeinde;22
+2770;Muttenz;D;BL;statusmittlere Gemeinde;22
+2771;Oberwil (BL);D;BL;statushohe Gemeinde;21
+2772;Pfeffingen;D;BL;statushohe Gemeinde;21
+2773;Reinach (BL);D;BL;statushohe Gemeinde;21
+2774;Schönenbuch;D;BL;statushohe Gemeinde;21
+2775;Therwil;D;BL;statushohe Gemeinde;21
+2781;Blauen;D;BL;statusmittlere Gemeinde;22
+2782;Brislach;D;BL;statusmittlere Gemeinde;22
+2783;Burg im Leimental;D;BL;statusmittlere Gemeinde;22
+2784;Dittingen;D;BL;statusmittlere Gemeinde;22
+2785;Duggingen;D;BL;statusmittlere Gemeinde;22
+2786;Grellingen;D;BL;statustiefe Gemeinde;23
+2787;Laufen;D;BL;statustiefe Gemeinde;23
+2788;Liesberg;D;BL;ländlich-gemischte Gemeinde;41
+2789;Nenzlingen;D;BL;statusmittlere Gemeinde;22
+2790;Roggenburg;D;BL;ländlich-gemischte Gemeinde;41
+2791;Röschenz;D;BL;statusmittlere Gemeinde;22
+2792;Wahlen;D;BL;statusmittlere Gemeinde;22
+2793;Zwingen;D;BL;statusmittlere Gemeinde;22
+2821;Arisdorf;D;BL;statushohe Gemeinde;21
+2822;Augst;D;BL;statusmittlere Gemeinde;22
+2823;Bubendorf;D;BL;statushohe Gemeinde;21
+2824;Frenkendorf;D;BL;statustiefe Gemeinde;23
+2825;Füllinsdorf;D;BL;statustiefe Gemeinde;23
+2826;Giebenach;D;BL;statushohe Gemeinde;21
+2827;Hersberg;D;BL;statushohe Gemeinde;21
+2828;Lausen;D;BL;statustiefe Gemeinde;23
+2829;Liestal;D;BL;statustiefe Gemeinde;23
+2830;Lupsingen;D;BL;statushohe Gemeinde;21
+2831;Pratteln;D;BL;statustiefe Gemeinde;23
+2832;Ramlinsburg;D;BL;statushohe Gemeinde;21
+2833;Seltisberg;D;BL;statushohe Gemeinde;21
+2834;Ziefen;D;BL;statusmittlere Gemeinde;22
+2841;Anwil;D;BL;ländlich-gemischte Gemeinde;41
+2842;Böckten;D;BL;statusmittlere Gemeinde;22
+2843;Buckten;D;BL;statusmittlere Gemeinde;22
+2844;Buus;D;BL;statusmittlere Gemeinde;22
+2845;Diepflingen;D;BL;statusmittlere Gemeinde;22
+2846;Gelterkinden;D;BL;statusmittlere Gemeinde;22
+2847;Häfelfingen;D;BL;ländlich-gemischte Gemeinde;41
+2848;Hemmiken;D;BL;statustiefe Gemeinde;23
+2849;Itingen;D;BL;statushohe Gemeinde;21
+2850;Känerkinden;D;BL;statushohe Gemeinde;21
+2851;Kilchberg (BL);D;BL;ländlich-gemischte Gemeinde;41
+2852;Läufelfingen;D;BL;Kleinagglomerationsgemeinde;31
+2853;Maisprach;D;BL;statusmittlere Gemeinde;22
+2854;Nusshof;D;BL;statushohe Gemeinde;21
+2855;Oltingen;D;BL;ländlich-gemischte Gemeinde;41
+2856;Ormalingen;D;BL;statusmittlere Gemeinde;22
+2857;Rickenbach (BL);D;BL;statusmittlere Gemeinde;22
+2858;Rothenfluh;D;BL;ländlich-gemischte Gemeinde;41
+2859;Rümlingen;D;BL;statustiefe Gemeinde;23
+2860;Rünenberg;D;BL;statushohe Gemeinde;21
+2861;Sissach;D;BL;statusmittlere Gemeinde;22
+2862;Tecknau;D;BL;statustiefe Gemeinde;23
+2863;Tenniken;D;BL;statushohe Gemeinde;21
+2864;Thürnen;D;BL;statusmittlere Gemeinde;22
+2865;Wenslingen;D;BL;statusmittlere Gemeinde;22
+2866;Wintersingen;D;BL;statusmittlere Gemeinde;22
+2867;Wittinsburg;D;BL;statushohe Gemeinde;21
+2868;Zeglingen;D;BL;ländlich-gemischte Gemeinde;41
+2869;Zunzgen;D;BL;statusmittlere Gemeinde;22
+2881;Arboldswil;D;BL;statushohe Gemeinde;21
+2882;Bennwil;D;BL;statusmittlere Gemeinde;22
+2883;Bretzwil;D;BL;statusmittlere Gemeinde;22
+2884;Diegten;D;BL;statusmittlere Gemeinde;22
+2885;Eptingen;D;BL;ländlich-gemischte Gemeinde;41
+2886;Hölstein;D;BL;statusmittlere Gemeinde;22
+2887;Lampenberg;D;BL;statusmittlere Gemeinde;22
+2888;Langenbruck;D;BL;ländlich-gemischte Gemeinde;41
+2889;Lauwil;D;BL;statusmittlere Gemeinde;22
+2890;Liedertswil;D;BL;ländlich-gemischte Gemeinde;41
+2891;Niederdorf;D;BL;statustiefe Gemeinde;23
+2892;Oberdorf (BL);D;BL;statustiefe Gemeinde;23
+2893;Reigoldswil;D;BL;statusmittlere Gemeinde;22
+2894;Titterten;D;BL;statusmittlere Gemeinde;22
+2895;Waldenburg;D;BL;ländlich-gemischte Gemeinde;41
+2901;Gächlingen;D;SH;Kleinagglomerationsgemeinde;31
+2903;Löhningen;D;SH;Kleinagglomerationsgemeinde;31
+2904;Neunkirch;D;SH;Kleinagglomerationsgemeinde;31
+2914;Büttenhardt;D;SH;Kleinagglomerationsgemeinde;31
+2915;Dörflingen;D;SH;Kleinagglomerationsgemeinde;31
+2917;Lohn (SH);D;SH;Kleinagglomerationsgemeinde;31
+2919;Stetten (SH);D;SH;Kleinagglomerationsgemeinde;31
+2920;Thayngen;D;SH;Kleinagglomerationsgemeinde;31
+2931;Bargen (SH);D;SH;Kleinagglomerationsgemeinde;31
+2932;Beringen;D;SH;Kleinagglomerationsgemeinde;31
+2933;Buchberg;D;SH;statusmittlere Gemeinde;22
+2936;Merishausen;D;SH;Kleinagglomerationsgemeinde;31
+2937;Neuhausen am Rheinfall;D;SH;Kleinagglomerationsgemeinde;31
+2938;Rüdlingen;D;SH;statushohe Gemeinde;21
+2939;Schaffhausen;D;SH;Mittelstadt;12
+2951;Beggingen;D;SH;ländlich-gemischte Gemeinde;41
+2952;Schleitheim;D;SH;Kleinagglomerationsgemeinde;31
+2953;Siblingen;D;SH;Kleinagglomerationsgemeinde;31
+2961;Buch (SH);D;SH;ländlich-gemischte Gemeinde;41
+2962;Hemishofen;D;SH;ländlich-gemischte Gemeinde;41
+2963;Ramsen;D;SH;ländlich-gemischte Gemeinde;41
+2964;Stein am Rhein;D;SH;ländlich-gemischte Gemeinde;41
+2971;Hallau;D;SH;ländlich-gemischte Gemeinde;41
+2972;Oberhallau;D;SH;Kleinagglomerationsgemeinde;31
+2973;Trasadingen;D;SH;Kleinagglomerationsgemeinde;31
+2974;Wilchingen;D;SH;Kleinagglomerationsgemeinde;31
+3001;Herisau;D;AR;statusmittlere Gemeinde;22
+3002;Hundwil;D;AR;statustiefe Gemeinde;23
+3003;Schönengrund;D;AR;statustiefe Gemeinde;23
+3004;Schwellbrunn;D;AR;statustiefe Gemeinde;23
+3005;Stein (AR);D;AR;statusmittlere Gemeinde;22
+3006;Urnäsch;D;AR;ländlich-gemischte Gemeinde;41
+3007;Waldstatt;D;AR;statusmittlere Gemeinde;22
+3021;Bühler;D;AR;ländlich-gemischte Gemeinde;41
+3022;Gais;D;AR;ländlich-gemischte Gemeinde;41
+3023;Speicher;D;AR;statusmittlere Gemeinde;22
+3024;Teufen (AR);D;AR;statusmittlere Gemeinde;22
+3025;Trogen;D;AR;statustiefe Gemeinde;23
+3031;Grub (AR);D;AR;Kleinagglomerationsgemeinde;31
+3032;Heiden;D;AR;ländlich-gemischte Gemeinde;41
+3033;Lutzenberg;D;AR;Kleinagglomerationsgemeinde;31
+3034;Rehetobel;D;AR;statusmittlere Gemeinde;22
+3035;Reute (AR);D;AR;ländlich-gemischte Gemeinde;41
+3036;Wald (AR);D;AR;ländlich-gemischte Gemeinde;41
+3037;Walzenhausen;D;AR;Kleinagglomerationsgemeinde;31
+3038;Wolfhalden;D;AR;Kleinagglomerationsgemeinde;31
+3101;Appenzell;D;AI;ländlich-gemischte Gemeinde;41
+3102;Gonten;D;AI;ländlich-gemischte Gemeinde;41
+3103;Rüte;D;AI;ländlich-gemischte Gemeinde;41
+3104;Schlatt-Haslen;D;AI;ländlich-gemischte Gemeinde;41
+3105;Schwende;D;AI;ländlich-gemischte Gemeinde;41
+3111;Oberegg;D;AI;ländlich-gemischte Gemeinde;41
+3201;Häggenschwil;D;SG;statusmittlere Gemeinde;22
+3202;Muolen;D;SG;statusmittlere Gemeinde;22
+3203;St. Gallen;D;SG;Mittelstadt;12
+3204;Wittenbach;D;SG;statustiefe Gemeinde;23
+3211;Berg (SG);D;SG;statusmittlere Gemeinde;22
+3212;Eggersriet;D;SG;statusmittlere Gemeinde;22
+3213;Goldach;D;SG;Kleinagglomerationsgemeinde;31
+3214;Mörschwil;D;SG;statushohe Gemeinde;21
+3215;Rorschach;D;SG;Kleinagglomerationsgemeinde;31
+3216;Rorschacherberg;D;SG;Kleinagglomerationsgemeinde;31
+3217;Steinach;D;SG;Kleinagglomerationsgemeinde;31
+3218;Tübach;D;SG;Kleinagglomerationsgemeinde;31
+3219;Untereggen;D;SG;statusmittlere Gemeinde;22
+3231;Au (SG);D;SG;Kleinagglomerationsgemeinde;31
+3232;Balgach;D;SG;Kleinagglomerationsgemeinde;31
+3233;Berneck;D;SG;Kleinagglomerationsgemeinde;31
+3234;Diepoldsau;D;SG;Kleinagglomerationsgemeinde;31
+3235;Rheineck;D;SG;Kleinagglomerationsgemeinde;31
+3236;St. Margrethen;D;SG;Kleinagglomerationsgemeinde;31
+3237;Thal;D;SG;Kleinagglomerationsgemeinde;31
+3238;Widnau;D;SG;Kleinagglomerationsgemeinde;31
+3251;Altstätten;D;SG;Kleinstadt;13
+3252;Eichberg;D;SG;Kleinagglomerationsgemeinde;31
+3253;Marbach (SG);D;SG;Kleinagglomerationsgemeinde;31
+3254;Oberriet (SG);D;SG;Kleinagglomerationsgemeinde;31
+3255;Rebstein;D;SG;Kleinagglomerationsgemeinde;31
+3256;Rüthi (SG);D;SG;ländlich-gemischte Gemeinde;41
+3271;Buchs (SG);D;SG;Kleinstadt;13
+3272;Gams;D;SG;Kleinagglomerationsgemeinde;31
+3273;Grabs;D;SG;Kleinagglomerationsgemeinde;31
+3274;Sennwald;D;SG;ländlich-gemischte Gemeinde;41
+3275;Sevelen;D;SG;Kleinagglomerationsgemeinde;31
+3276;Wartau;D;SG;ländlich-gemischte Gemeinde;41
+3291;Bad Ragaz;D;SG;ländlich-gemischte Gemeinde;41
+3292;Flums;D;SG;ländlich-gemischte Gemeinde;41
+3293;Mels;D;SG;Kleinagglomerationsgemeinde;31
+3294;Pfäfers;D;SG;ländlich-gemischte Gemeinde;41
+3295;Quarten;D;SG;ländlich-gemischte Gemeinde;41
+3296;Sargans;D;SG;Kleinagglomerationsgemeinde;31
+3297;Vilters-Wangs;D;SG;Kleinagglomerationsgemeinde;31
+3298;Walenstadt;D;SG;ländlich-gemischte Gemeinde;41
+3311;Amden;D;SG;ländlich-gemischte Gemeinde;41
+3312;Benken (SG);D;SG;ländlich-gemischte Gemeinde;41
+3313;Kaltbrunn;D;SG;ländlich-gemischte Gemeinde;41
+3315;Schänis;D;SG;Kleinagglomerationsgemeinde;31
+3316;Weesen;D;SG;Kleinagglomerationsgemeinde;31
+3338;Schmerikon;D;SG;Kleinagglomerationsgemeinde;31
+3339;Uznach;D;SG;Kleinagglomerationsgemeinde;31
+3340;Rapperswil-Jona;D;SG;Mittelstadt;12
+3341;Gommiswald;D;SG;ländlich-gemischte Gemeinde;41
+3342;Eschenbach (SG);D;SG;Kleinagglomerationsgemeinde;31
+3352;Ebnat-Kappel;D;SG;ländlich-gemischte Gemeinde;41
+3359;Wildhaus-Alt St. Johann;D;SG;ländlich-gemischte Gemeinde;41
+3360;Nesslau;D;SG;ländlich-gemischte Gemeinde;41
+3372;Hemberg;D;SG;ländlich-gemischte Gemeinde;41
+3374;Lichtensteig;D;SG;Kleinagglomerationsgemeinde;31
+3375;Oberhelfenschwil;D;SG;ländlich-gemischte Gemeinde;41
+3378;Neckertal;D;SG;ländlich-gemischte Gemeinde;41
+3379;Wattwil;D;SG;Kleinagglomerationsgemeinde;31
+3392;Kirchberg (SG);D;SG;ländlich-gemischte Gemeinde;41
+3393;Lütisburg;D;SG;ländlich-gemischte Gemeinde;41
+3394;Mosnang;D;SG;ländlich-gemischte Gemeinde;41
+3395;Bütschwil-Ganterschwil;D;SG;ländlich-gemischte Gemeinde;41
+3401;Degersheim;D;SG;ländlich-gemischte Gemeinde;41
+3402;Flawil;D;SG;Kleinagglomerationsgemeinde;31
+3405;Jonschwil;D;SG;Kleinagglomerationsgemeinde;31
+3407;Oberuzwil;D;SG;Kleinagglomerationsgemeinde;31
+3408;Uzwil;D;SG;Kleinagglomerationsgemeinde;31
+3422;Niederbüren;D;SG;Kleinagglomerationsgemeinde;31
+3423;Niederhelfenschwil;D;SG;Kleinagglomerationsgemeinde;31
+3424;Oberbüren;D;SG;Kleinagglomerationsgemeinde;31
+3426;Zuzwil (SG);D;SG;Kleinagglomerationsgemeinde;31
+3427;Wil (SG);D;SG;Kleinagglomerationsgemeinde;31
+3441;Andwil (SG);D;SG;statusmittlere Gemeinde;22
+3442;Gaiserwald;D;SG;statusmittlere Gemeinde;22
+3443;Gossau (SG);D;SG;statustiefe Gemeinde;23
+3444;Waldkirch;D;SG;statusmittlere Gemeinde;22
+3503;Mutten;D;GR;ländlich-gemischte Gemeinde;41
+3506;Vaz/Obervaz;D;GR;ländlich-gemischte Gemeinde;41
+3513;Lantsch/Lenz;D;GR;ländlich-gemischte Gemeinde;41
+3514;Schmitten (GR);D;GR;ländlich-gemischte Gemeinde;41
+3521;Bergün/Bravuogn;D;GR;ländlich-gemischte Gemeinde;41
+3522;Filisur;D;GR;ländlich-gemischte Gemeinde;41
+3531;Bivio;D;GR;ländlich-gemischte Gemeinde;41
+3532;Cunter;R;GR;ländlich-gemischte Gemeinde;41
+3533;Marmorera;D;GR;ländlich-gemischte Gemeinde;41
+3534;Mulegns;R;GR;ländlich-gemischte Gemeinde;41
+3536;Riom-Parsonz;R;GR;ländlich-gemischte Gemeinde;41
+3538;Salouf;R;GR;ländlich-gemischte Gemeinde;41
+3539;Savognin;R;GR;ländlich-gemischte Gemeinde;41
+3540;Sur;R;GR;ländlich-gemischte Gemeinde;41
+3541;Tinizong-Rona;R;GR;ländlich-gemischte Gemeinde;41
+3542;Albula/Alvra;D;GR;ländlich-gemischte Gemeinde;41
+3551;Brusio;I;GR;ländlich-gemischte Gemeinde;41
+3561;Poschiavo;I;GR;ländlich-gemischte Gemeinde;41
+3572;Falera;R;GR;ländlich-gemischte Gemeinde;41
+3575;Laax;D;GR;ländlich-gemischte Gemeinde;41
+3581;Sagogn;R;GR;ländlich-gemischte Gemeinde;41
+3582;Schluein;R;GR;ländlich-gemischte Gemeinde;41
+3603;Vals;D;GR;ländlich-gemischte Gemeinde;41
+3611;Andiast;R;GR;ländlich-gemischte Gemeinde;41
+3612;Obersaxen;D;GR;ländlich-gemischte Gemeinde;41
+3616;Waltensburg/Vuorz;R;GR;ländlich-gemischte Gemeinde;41
+3617;Mundaun;D;GR;ländlich-gemischte Gemeinde;41
+3618;Lumnezia;R;GR;ländlich-gemischte Gemeinde;41
+3619;Ilanz/Glion;D;GR;ländlich-gemischte Gemeinde;41
+3633;Fürstenau;D;GR;ländlich-gemischte Gemeinde;41
+3637;Rothenbrunnen;D;GR;ländlich-gemischte Gemeinde;41
+3638;Scharans;D;GR;ländlich-gemischte Gemeinde;41
+3640;Sils im Domleschg;D;GR;ländlich-gemischte Gemeinde;41
+3661;Cazis;D;GR;ländlich-gemischte Gemeinde;41
+3662;Flerden;D;GR;ländlich-gemischte Gemeinde;41
+3663;Masein;D;GR;ländlich-gemischte Gemeinde;41
+3668;Thusis;D;GR;ländlich-gemischte Gemeinde;41
+3669;Tschappina;D;GR;ländlich-gemischte Gemeinde;41
+3670;Urmein;D;GR;ländlich-gemischte Gemeinde;41
+3672;Safiental;D;GR;ländlich-gemischte Gemeinde;41
+3673;Domleschg;D;GR;ländlich-gemischte Gemeinde;41
+3681;Avers;D;GR;ländlich-gemischte Gemeinde;41
+3691;Hinterrhein;D;GR;ländlich-gemischte Gemeinde;41
+3693;Nufenen;D;GR;ländlich-gemischte Gemeinde;41
+3694;Splügen;D;GR;ländlich-gemischte Gemeinde;41
+3695;Sufers;D;GR;ländlich-gemischte Gemeinde;41
+3701;Andeer;D;GR;ländlich-gemischte Gemeinde;41
+3703;Casti-Wergenstein;R;GR;ländlich-gemischte Gemeinde;41
+3705;Donat;R;GR;ländlich-gemischte Gemeinde;41
+3707;Lohn (GR);R;GR;ländlich-gemischte Gemeinde;41
+3708;Mathon;R;GR;ländlich-gemischte Gemeinde;41
+3711;Rongellen;D;GR;ländlich-gemischte Gemeinde;41
+3712;Zillis-Reischen;D;GR;ländlich-gemischte Gemeinde;41
+3713;Ferrera;D;GR;ländlich-gemischte Gemeinde;41
+3721;Bonaduz;D;GR;Kleinagglomerationsgemeinde;31
+3722;Domat/Ems;D;GR;Kleinagglomerationsgemeinde;31
+3723;Rhäzüns;D;GR;Kleinagglomerationsgemeinde;31
+3731;Felsberg;D;GR;Kleinagglomerationsgemeinde;31
+3732;Flims;D;GR;ländlich-gemischte Gemeinde;41
+3733;Tamins;D;GR;Kleinagglomerationsgemeinde;31
+3734;Trin;D;GR;ländlich-gemischte Gemeinde;41
+3746;Zernez;R;GR;ländlich-gemischte Gemeinde;41
+3752;Samnaun;D;GR;ländlich-gemischte Gemeinde;41
+3762;Scuol;R;GR;ländlich-gemischte Gemeinde;41
+3764;Valsot;R;GR;ländlich-gemischte Gemeinde;41
+3781;Bever;D;GR;ländlich-gemischte Gemeinde;41
+3782;Celerina/Schlarigna;D;GR;ländlich-gemischte Gemeinde;41
+3783;Madulain;D;GR;ländlich-gemischte Gemeinde;41
+3784;Pontresina;D;GR;ländlich-gemischte Gemeinde;41
+3785;La Punt-Chamues-ch;D;GR;ländlich-gemischte Gemeinde;41
+3786;Samedan;D;GR;ländlich-gemischte Gemeinde;41
+3787;St. Moritz;D;GR;Kleinagglomerationsgemeinde;31
+3788;S-chanf;R;GR;ländlich-gemischte Gemeinde;41
+3789;Sils im Engadin/Segl;D;GR;ländlich-gemischte Gemeinde;41
+3790;Silvaplana;D;GR;ländlich-gemischte Gemeinde;41
+3791;Zuoz;D;GR;ländlich-gemischte Gemeinde;41
+3792;Bregaglia;I;GR;ländlich-gemischte Gemeinde;41
+3804;Buseno;I;GR;Kleinagglomerationsgemeinde;31
+3805;Castaneda;I;GR;ländlich-gemischte Gemeinde;41
+3808;Rossa;I;GR;ländlich-gemischte Gemeinde;41
+3810;Santa Maria in Calanca;I;GR;Kleinagglomerationsgemeinde;31
+3821;Lostallo;I;GR;ländlich-gemischte Gemeinde;41
+3822;Mesocco;I;GR;ländlich-gemischte Gemeinde;41
+3823;Soazza;I;GR;ländlich-gemischte Gemeinde;41
+3831;Cama;I;GR;ländlich-gemischte Gemeinde;41
+3832;Grono;I;GR;ländlich-gemischte Gemeinde;41
+3833;Leggia;I;GR;ländlich-gemischte Gemeinde;41
+3834;Roveredo (GR);I;GR;ländlich-gemischte Gemeinde;41
+3835;San Vittore;I;GR;Kleinagglomerationsgemeinde;31
+3836;Verdabbio;I;GR;ländlich-gemischte Gemeinde;41
+3837;Calanca;I;GR;ländlich-gemischte Gemeinde;41
+3847;Val Müstair;R;GR;ländlich-gemischte Gemeinde;41
+3851;Davos;D;GR;Kleinagglomerationsgemeinde;31
+3861;Fideris;D;GR;ländlich-gemischte Gemeinde;41
+3862;Furna;D;GR;ländlich-gemischte Gemeinde;41
+3863;Jenaz;D;GR;ländlich-gemischte Gemeinde;41
+3871;Klosters-Serneus;D;GR;ländlich-gemischte Gemeinde;41
+3881;Conters im Prättigau;D;GR;ländlich-gemischte Gemeinde;41
+3882;Küblis;D;GR;ländlich-gemischte Gemeinde;41
+3883;Saas;D;GR;ländlich-gemischte Gemeinde;41
+3891;Luzein;D;GR;ländlich-gemischte Gemeinde;41
+3893;St. Antönien;D;GR;ländlich-gemischte Gemeinde;41
+3901;Chur;D;GR;Mittelstadt;12
+3911;Churwalden;D;GR;ländlich-gemischte Gemeinde;41
+3921;Arosa;D;GR;ländlich-gemischte Gemeinde;41
+3926;Maladers;D;GR;Kleinagglomerationsgemeinde;31
+3932;Tschiertschen-Praden;D;GR;Kleinagglomerationsgemeinde;31
+3941;Haldenstein;D;GR;Kleinagglomerationsgemeinde;31
+3945;Trimmis;D;GR;Kleinagglomerationsgemeinde;31
+3946;Untervaz;D;GR;Kleinagglomerationsgemeinde;31
+3947;Zizers;D;GR;Kleinagglomerationsgemeinde;31
+3951;Fläsch;D;GR;ländlich-gemischte Gemeinde;41
+3952;Jenins;D;GR;ländlich-gemischte Gemeinde;41
+3953;Maienfeld;D;GR;ländlich-gemischte Gemeinde;41
+3954;Malans;D;GR;ländlich-gemischte Gemeinde;41
+3955;Landquart;D;GR;Kleinagglomerationsgemeinde;31
+3961;Grüsch;D;GR;ländlich-gemischte Gemeinde;41
+3962;Schiers;D;GR;ländlich-gemischte Gemeinde;41
+3972;Seewis im Prättigau;D;GR;ländlich-gemischte Gemeinde;41
+3981;Breil/Brigels;R;GR;ländlich-gemischte Gemeinde;41
+3982;Disentis/Mustér;R;GR;ländlich-gemischte Gemeinde;41
+3983;Medel (Lucmagn);R;GR;ländlich-gemischte Gemeinde;41
+3985;Sumvitg;R;GR;ländlich-gemischte Gemeinde;41
+3986;Tujetsch;R;GR;ländlich-gemischte Gemeinde;41
+3987;Trun;R;GR;ländlich-gemischte Gemeinde;41
+4001;Aarau;D;AG;Kleinstadt;13
+4002;Biberstein;D;AG;Kleinagglomerationsgemeinde;31
+4003;Buchs (AG);D;AG;Kleinagglomerationsgemeinde;31
+4004;Densbüren;D;AG;Kleinagglomerationsgemeinde;31
+4005;Erlinsbach (AG);D;AG;Kleinagglomerationsgemeinde;31
+4006;Gränichen;D;AG;Kleinagglomerationsgemeinde;31
+4007;Hirschthal;D;AG;Kleinagglomerationsgemeinde;31
+4008;Küttigen;D;AG;Kleinagglomerationsgemeinde;31
+4009;Muhen;D;AG;Kleinagglomerationsgemeinde;31
+4010;Oberentfelden;D;AG;Kleinagglomerationsgemeinde;31
+4012;Suhr;D;AG;Kleinagglomerationsgemeinde;31
+4013;Unterentfelden;D;AG;Kleinagglomerationsgemeinde;31
+4021;Baden;D;AG;Kleinstadt;13
+4022;Bellikon;D;AG;statushohe Gemeinde;21
+4023;Bergdietikon;D;AG;statushohe Gemeinde;21
+4024;Birmenstorf (AG);D;AG;Kleinagglomerationsgemeinde;31
+4026;Ennetbaden;D;AG;statushohe Gemeinde;21
+4027;Fislisbach;D;AG;statusmittlere Gemeinde;22
+4028;Freienwil;D;AG;Kleinagglomerationsgemeinde;31
+4029;Gebenstorf;D;AG;statusmittlere Gemeinde;22
+4030;Killwangen;D;AG;statusmittlere Gemeinde;22
+4031;Künten;D;AG;statusmittlere Gemeinde;22
+4032;Mägenwil;D;AG;Kleinagglomerationsgemeinde;31
+4033;Mellingen;D;AG;Kleinagglomerationsgemeinde;31
+4034;Neuenhof;D;AG;statustiefe Gemeinde;23
+4035;Niederrohrdorf;D;AG;Kleinagglomerationsgemeinde;31
+4037;Oberrohrdorf;D;AG;statushohe Gemeinde;21
+4038;Obersiggenthal;D;AG;statusmittlere Gemeinde;22
+4039;Remetschwil;D;AG;Kleinagglomerationsgemeinde;31
+4040;Spreitenbach;D;AG;statustiefe Gemeinde;23
+4041;Stetten (AG);D;AG;Kleinagglomerationsgemeinde;31
+4042;Turgi;D;AG;statustiefe Gemeinde;23
+4044;Untersiggenthal;D;AG;statusmittlere Gemeinde;22
+4045;Wettingen;D;AG;statusmittlere Gemeinde;22
+4046;Wohlenschwil;D;AG;Kleinagglomerationsgemeinde;31
+4047;Würenlingen;D;AG;Kleinagglomerationsgemeinde;31
+4048;Würenlos;D;AG;statushohe Gemeinde;21
+4049;Ehrendingen;D;AG;Kleinagglomerationsgemeinde;31
+4061;Arni (AG);D;AG;statushohe Gemeinde;21
+4062;Berikon;D;AG;statushohe Gemeinde;21
+4063;Bremgarten (AG);D;AG;statusmittlere Gemeinde;22
+4064;Büttikon;D;AG;Kleinagglomerationsgemeinde;31
+4065;Dottikon;D;AG;Kleinagglomerationsgemeinde;31
+4066;Eggenwil;D;AG;statushohe Gemeinde;21
+4067;Fischbach-Göslikon;D;AG;statusmittlere Gemeinde;22
+4068;Hägglingen;D;AG;Kleinagglomerationsgemeinde;31
+4071;Jonen;D;AG;statushohe Gemeinde;21
+4072;Niederwil (AG);D;AG;Kleinagglomerationsgemeinde;31
+4073;Oberlunkhofen;D;AG;statushohe Gemeinde;21
+4074;Oberwil-Lieli;D;AG;statushohe Gemeinde;21
+4075;Rudolfstetten-Friedlisberg;D;AG;statusmittlere Gemeinde;22
+4076;Sarmenstorf;D;AG;ländlich-gemischte Gemeinde;41
+4077;Tägerig;D;AG;Kleinagglomerationsgemeinde;31
+4078;Uezwil;D;AG;Kleinagglomerationsgemeinde;31
+4079;Unterlunkhofen;D;AG;statushohe Gemeinde;21
+4080;Villmergen;D;AG;Kleinagglomerationsgemeinde;31
+4081;Widen;D;AG;statushohe Gemeinde;21
+4082;Wohlen (AG);D;AG;Kleinstadt;13
+4083;Zufikon;D;AG;statusmittlere Gemeinde;22
+4084;Islisberg;D;AG;statushohe Gemeinde;21
+4091;Auenstein;D;AG;Kleinagglomerationsgemeinde;31
+4092;Birr;D;AG;Kleinagglomerationsgemeinde;31
+4093;Birrhard;D;AG;Kleinagglomerationsgemeinde;31
+4094;Bözen;D;AG;ländlich-gemischte Gemeinde;41
+4095;Brugg;D;AG;statusmittlere Gemeinde;22
+4096;Effingen;D;AG;Kleinagglomerationsgemeinde;31
+4097;Elfingen;D;AG;Kleinagglomerationsgemeinde;31
+4099;Habsburg;D;AG;Kleinagglomerationsgemeinde;31
+4100;Hausen (AG);D;AG;statusmittlere Gemeinde;22
+4104;Lupfig;D;AG;Kleinagglomerationsgemeinde;31
+4105;Mandach;D;AG;ländlich-gemischte Gemeinde;41
+4106;Mönthal;D;AG;Kleinagglomerationsgemeinde;31
+4107;Mülligen;D;AG;Kleinagglomerationsgemeinde;31
+4110;Remigen;D;AG;statusmittlere Gemeinde;22
+4111;Riniken;D;AG;statusmittlere Gemeinde;22
+4112;Rüfenach;D;AG;Kleinagglomerationsgemeinde;31
+4113;Scherz;D;AG;Kleinagglomerationsgemeinde;31
+4114;Schinznach-Bad;D;AG;Kleinagglomerationsgemeinde;31
+4117;Thalheim (AG);D;AG;Kleinagglomerationsgemeinde;31
+4120;Veltheim (AG);D;AG;Kleinagglomerationsgemeinde;31
+4121;Villigen;D;AG;Kleinagglomerationsgemeinde;31
+4122;Villnachern;D;AG;Kleinagglomerationsgemeinde;31
+4123;Windisch;D;AG;statustiefe Gemeinde;23
+4124;Bözberg;D;AG;Kleinagglomerationsgemeinde;31
+4125;Schinznach;D;AG;Kleinagglomerationsgemeinde;31
+4131;Beinwil am See;D;AG;Kleinagglomerationsgemeinde;31
+4132;Birrwil;D;AG;ländlich-gemischte Gemeinde;41
+4133;Burg (AG);D;AG;Kleinagglomerationsgemeinde;31
+4134;Dürrenäsch;D;AG;ländlich-gemischte Gemeinde;41
+4135;Gontenschwil;D;AG;ländlich-gemischte Gemeinde;41
+4136;Holziken;D;AG;ländlich-gemischte Gemeinde;41
+4137;Leimbach (AG);D;AG;ländlich-gemischte Gemeinde;41
+4138;Leutwil;D;AG;ländlich-gemischte Gemeinde;41
+4139;Menziken;D;AG;Kleinagglomerationsgemeinde;31
+4140;Oberkulm;D;AG;ländlich-gemischte Gemeinde;41
+4141;Reinach (AG);D;AG;Kleinagglomerationsgemeinde;31
+4142;Schlossrued;D;AG;ländlich-gemischte Gemeinde;41
+4143;Schmiedrued;D;AG;ländlich-gemischte Gemeinde;41
+4144;Schöftland;D;AG;Kleinagglomerationsgemeinde;31
+4145;Teufenthal (AG);D;AG;ländlich-gemischte Gemeinde;41
+4146;Unterkulm;D;AG;ländlich-gemischte Gemeinde;41
+4147;Zetzwil;D;AG;ländlich-gemischte Gemeinde;41
+4161;Eiken;D;AG;Kleinagglomerationsgemeinde;31
+4163;Frick;D;AG;ländlich-gemischte Gemeinde;41
+4164;Gansingen;D;AG;Kleinagglomerationsgemeinde;31
+4165;Gipf-Oberfrick;D;AG;Kleinagglomerationsgemeinde;31
+4166;Herznach;D;AG;Kleinagglomerationsgemeinde;31
+4167;Hornussen;D;AG;ländlich-gemischte Gemeinde;41
+4169;Kaisten;D;AG;ländlich-gemischte Gemeinde;41
+4170;Laufenburg;D;AG;ländlich-gemischte Gemeinde;41
+4172;Münchwilen (AG);D;AG;Kleinagglomerationsgemeinde;31
+4173;Oberhof;D;AG;ländlich-gemischte Gemeinde;41
+4175;Oeschgen;D;AG;ländlich-gemischte Gemeinde;41
+4176;Schwaderloch;D;AG;ländlich-gemischte Gemeinde;41
+4177;Sisseln;D;AG;Kleinagglomerationsgemeinde;31
+4179;Ueken;D;AG;Kleinagglomerationsgemeinde;31
+4181;Wittnau;D;AG;ländlich-gemischte Gemeinde;41
+4182;Wölflinswil;D;AG;ländlich-gemischte Gemeinde;41
+4183;Zeihen;D;AG;Kleinagglomerationsgemeinde;31
+4184;Mettautal;D;AG;ländlich-gemischte Gemeinde;41
+4191;Ammerswil;D;AG;Kleinagglomerationsgemeinde;31
+4192;Boniswil;D;AG;ländlich-gemischte Gemeinde;41
+4193;Brunegg;D;AG;Kleinagglomerationsgemeinde;31
+4194;Dintikon;D;AG;Kleinagglomerationsgemeinde;31
+4195;Egliswil;D;AG;Kleinagglomerationsgemeinde;31
+4196;Fahrwangen;D;AG;ländlich-gemischte Gemeinde;41
+4197;Hallwil;D;AG;ländlich-gemischte Gemeinde;41
+4198;Hendschiken;D;AG;Kleinagglomerationsgemeinde;31
+4199;Holderbank (AG);D;AG;Kleinagglomerationsgemeinde;31
+4200;Hunzenschwil;D;AG;Kleinagglomerationsgemeinde;31
+4201;Lenzburg;D;AG;Kleinagglomerationsgemeinde;31
+4202;Meisterschwanden;D;AG;ländlich-gemischte Gemeinde;41
+4203;Möriken-Wildegg;D;AG;Kleinagglomerationsgemeinde;31
+4204;Niederlenz;D;AG;Kleinagglomerationsgemeinde;31
+4205;Othmarsingen;D;AG;Kleinagglomerationsgemeinde;31
+4206;Rupperswil;D;AG;Kleinagglomerationsgemeinde;31
+4207;Schafisheim;D;AG;Kleinagglomerationsgemeinde;31
+4208;Seengen;D;AG;ländlich-gemischte Gemeinde;41
+4209;Seon;D;AG;ländlich-gemischte Gemeinde;41
+4210;Staufen;D;AG;Kleinagglomerationsgemeinde;31
+4221;Abtwil;D;AG;Kleinagglomerationsgemeinde;31
+4222;Aristau;D;AG;Kleinagglomerationsgemeinde;31
+4223;Auw;D;AG;Kleinagglomerationsgemeinde;31
+4224;Beinwil (Freiamt);D;AG;ländlich-gemischte Gemeinde;41
+4226;Besenbüren;D;AG;statushohe Gemeinde;21
+4227;Bettwil;D;AG;ländlich-gemischte Gemeinde;41
+4228;Boswil;D;AG;ländlich-gemischte Gemeinde;41
+4229;Bünzen;D;AG;Kleinagglomerationsgemeinde;31
+4230;Buttwil;D;AG;ländlich-gemischte Gemeinde;41
+4231;Dietwil;D;AG;Kleinagglomerationsgemeinde;31
+4232;Geltwil;D;AG;ländlich-gemischte Gemeinde;41
+4233;Kallern;D;AG;ländlich-gemischte Gemeinde;41
+4234;Merenschwand;D;AG;Kleinagglomerationsgemeinde;31
+4235;Mühlau;D;AG;Kleinagglomerationsgemeinde;31
+4236;Muri (AG);D;AG;ländlich-gemischte Gemeinde;41
+4237;Oberrüti;D;AG;statusmittlere Gemeinde;22
+4238;Rottenschwil;D;AG;statushohe Gemeinde;21
+4239;Sins;D;AG;Kleinagglomerationsgemeinde;31
+4240;Waltenschwil;D;AG;Kleinagglomerationsgemeinde;31
+4251;Hellikon;D;AG;statusmittlere Gemeinde;22
+4252;Kaiseraugst;D;AG;statusmittlere Gemeinde;22
+4253;Magden;D;AG;statushohe Gemeinde;21
+4254;Möhlin;D;AG;statusmittlere Gemeinde;22
+4255;Mumpf;D;AG;statusmittlere Gemeinde;22
+4256;Obermumpf;D;AG;statusmittlere Gemeinde;22
+4257;Olsberg;D;AG;statushohe Gemeinde;21
+4258;Rheinfelden;D;AG;statusmittlere Gemeinde;22
+4259;Schupfart;D;AG;Kleinagglomerationsgemeinde;31
+4260;Stein (AG);D;AG;Kleinagglomerationsgemeinde;31
+4261;Wallbach;D;AG;Kleinagglomerationsgemeinde;31
+4262;Wegenstetten;D;AG;statusmittlere Gemeinde;22
+4263;Zeiningen;D;AG;statusmittlere Gemeinde;22
+4264;Zuzgen;D;AG;statusmittlere Gemeinde;22
+4271;Aarburg;D;AG;Kleinagglomerationsgemeinde;31
+4272;Attelwil;D;AG;ländlich-gemischte Gemeinde;41
+4273;Bottenwil;D;AG;Kleinagglomerationsgemeinde;31
+4274;Brittnau;D;AG;Kleinagglomerationsgemeinde;31
+4275;Kirchleerau;D;AG;ländlich-gemischte Gemeinde;41
+4276;Kölliken;D;AG;Kleinagglomerationsgemeinde;31
+4277;Moosleerau;D;AG;ländlich-gemischte Gemeinde;41
+4279;Murgenthal;D;AG;ländlich-gemischte Gemeinde;41
+4280;Oftringen;D;AG;Kleinagglomerationsgemeinde;31
+4281;Reitnau;D;AG;ländlich-gemischte Gemeinde;41
+4282;Rothrist;D;AG;ländlich-gemischte Gemeinde;41
+4283;Safenwil;D;AG;Kleinagglomerationsgemeinde;31
+4284;Staffelbach;D;AG;ländlich-gemischte Gemeinde;41
+4285;Strengelbach;D;AG;Kleinagglomerationsgemeinde;31
+4286;Uerkheim;D;AG;Kleinagglomerationsgemeinde;31
+4287;Vordemwald;D;AG;Kleinagglomerationsgemeinde;31
+4288;Wiliberg;D;AG;Kleinagglomerationsgemeinde;31
+4289;Zofingen;D;AG;Kleinagglomerationsgemeinde;31
+4301;Baldingen;D;AG;Kleinagglomerationsgemeinde;31
+4302;Böbikon;D;AG;Kleinagglomerationsgemeinde;31
+4303;Böttstein;D;AG;Kleinagglomerationsgemeinde;31
+4304;Döttingen;D;AG;Kleinagglomerationsgemeinde;31
+4305;Endingen;D;AG;Kleinagglomerationsgemeinde;31
+4306;Fisibach;D;AG;statusmittlere Gemeinde;22
+4307;Full-Reuenthal;D;AG;ländlich-gemischte Gemeinde;41
+4308;Kaiserstuhl;D;AG;statusmittlere Gemeinde;22
+4309;Klingnau;D;AG;Kleinagglomerationsgemeinde;31
+4310;Koblenz;D;AG;ländlich-gemischte Gemeinde;41
+4311;Leibstadt;D;AG;ländlich-gemischte Gemeinde;41
+4312;Lengnau (AG);D;AG;Kleinagglomerationsgemeinde;31
+4313;Leuggern;D;AG;ländlich-gemischte Gemeinde;41
+4314;Mellikon;D;AG;Kleinagglomerationsgemeinde;31
+4315;Rekingen (AG);D;AG;Kleinagglomerationsgemeinde;31
+4316;Rietheim;D;AG;ländlich-gemischte Gemeinde;41
+4317;Rümikon;D;AG;Kleinagglomerationsgemeinde;31
+4318;Schneisingen;D;AG;statushohe Gemeinde;21
+4319;Siglistorf;D;AG;statusmittlere Gemeinde;22
+4320;Tegerfelden;D;AG;ländlich-gemischte Gemeinde;41
+4322;Wislikofen;D;AG;Kleinagglomerationsgemeinde;31
+4323;Bad Zurzach;D;AG;ländlich-gemischte Gemeinde;41
+4401;Arbon;D;TG;Kleinstadt;13
+4406;Dozwil;D;TG;Kleinagglomerationsgemeinde;31
+4411;Egnach;D;TG;Kleinagglomerationsgemeinde;31
+4416;Hefenhofen;D;TG;Kleinagglomerationsgemeinde;31
+4421;Horn;D;TG;Kleinagglomerationsgemeinde;31
+4426;Kesswil;D;TG;ländlich-gemischte Gemeinde;41
+4431;Roggwil (TG);D;TG;statusmittlere Gemeinde;22
+4436;Romanshorn;D;TG;Kleinstadt;13
+4441;Salmsach;D;TG;Kleinagglomerationsgemeinde;31
+4446;Sommeri;D;TG;ländlich-gemischte Gemeinde;41
+4451;Uttwil;D;TG;Kleinagglomerationsgemeinde;31
+4461;Amriswil;D;TG;Kleinagglomerationsgemeinde;31
+4471;Bischofszell;D;TG;ländlich-gemischte Gemeinde;41
+4476;Erlen;D;TG;ländlich-gemischte Gemeinde;41
+4486;Hauptwil-Gotteshaus;D;TG;ländlich-gemischte Gemeinde;41
+4495;Hohentannen;D;TG;ländlich-gemischte Gemeinde;41
+4501;Kradolf-Schönenberg;D;TG;ländlich-gemischte Gemeinde;41
+4506;Sulgen;D;TG;ländlich-gemischte Gemeinde;41
+4511;Zihlschlacht-Sitterdorf;D;TG;ländlich-gemischte Gemeinde;41
+4536;Basadingen-Schlattingen;D;TG;ländlich-gemischte Gemeinde;41
+4545;Diessenhofen;D;TG;ländlich-gemischte Gemeinde;41
+4546;Schlatt (TG);D;TG;Kleinagglomerationsgemeinde;31
+4551;Aadorf;D;TG;Kleinagglomerationsgemeinde;31
+4561;Felben-Wellhausen;D;TG;Kleinagglomerationsgemeinde;31
+4566;Frauenfeld;D;TG;Kleinstadt;13
+4571;Gachnang;D;TG;Kleinagglomerationsgemeinde;31
+4590;Hüttlingen;D;TG;Kleinagglomerationsgemeinde;31
+4591;Matzingen;D;TG;Kleinagglomerationsgemeinde;31
+4601;Neunforn;D;TG;Kleinagglomerationsgemeinde;31
+4606;Stettfurt;D;TG;Kleinagglomerationsgemeinde;31
+4611;Thundorf;D;TG;Kleinagglomerationsgemeinde;31
+4616;Uesslingen-Buch;D;TG;Kleinagglomerationsgemeinde;31
+4621;Warth-Weiningen;D;TG;Kleinagglomerationsgemeinde;31
+4641;Altnau;D;TG;ländlich-gemischte Gemeinde;41
+4643;Bottighofen;D;TG;Kleinagglomerationsgemeinde;31
+4646;Ermatingen;D;TG;ländlich-gemischte Gemeinde;41
+4651;Gottlieben;D;TG;Kleinagglomerationsgemeinde;31
+4656;Güttingen;D;TG;Kleinagglomerationsgemeinde;31
+4666;Kemmental;D;TG;ländlich-gemischte Gemeinde;41
+4671;Kreuzlingen;D;TG;Kleinstadt;13
+4681;Langrickenbach;D;TG;ländlich-gemischte Gemeinde;41
+4683;Lengwil;D;TG;ländlich-gemischte Gemeinde;41
+4691;Münsterlingen;D;TG;ländlich-gemischte Gemeinde;41
+4696;Tägerwilen;D;TG;ländlich-gemischte Gemeinde;41
+4701;Wäldi;D;TG;ländlich-gemischte Gemeinde;41
+4711;Affeltrangen;D;TG;ländlich-gemischte Gemeinde;41
+4716;Bettwiesen;D;TG;Kleinagglomerationsgemeinde;31
+4721;Bichelsee-Balterswil;D;TG;Kleinagglomerationsgemeinde;31
+4723;Braunau;D;TG;ländlich-gemischte Gemeinde;41
+4724;Eschlikon;D;TG;Kleinagglomerationsgemeinde;31
+4726;Fischingen;D;TG;ländlich-gemischte Gemeinde;41
+4741;Lommis;D;TG;Kleinagglomerationsgemeinde;31
+4746;Münchwilen (TG);D;TG;Kleinagglomerationsgemeinde;31
+4751;Rickenbach (TG);D;TG;Kleinagglomerationsgemeinde;31
+4756;Schönholzerswilen;D;TG;ländlich-gemischte Gemeinde;41
+4761;Sirnach;D;TG;Kleinagglomerationsgemeinde;31
+4776;Tobel-Tägerschen;D;TG;ländlich-gemischte Gemeinde;41
+4781;Wängi;D;TG;Kleinagglomerationsgemeinde;31
+4786;Wilen (TG);D;TG;Kleinagglomerationsgemeinde;31
+4791;Wuppenau;D;TG;Kleinagglomerationsgemeinde;31
+4801;Berlingen;D;TG;ländlich-gemischte Gemeinde;41
+4806;Eschenz;D;TG;ländlich-gemischte Gemeinde;41
+4811;Herdern;D;TG;ländlich-gemischte Gemeinde;41
+4816;Homburg;D;TG;ländlich-gemischte Gemeinde;41
+4821;Hüttwilen;D;TG;ländlich-gemischte Gemeinde;41
+4826;Mammern;D;TG;ländlich-gemischte Gemeinde;41
+4831;Müllheim;D;TG;Kleinagglomerationsgemeinde;31
+4841;Pfyn;D;TG;Kleinagglomerationsgemeinde;31
+4846;Raperswilen;D;TG;ländlich-gemischte Gemeinde;41
+4851;Salenstein;D;TG;ländlich-gemischte Gemeinde;41
+4864;Steckborn;D;TG;ländlich-gemischte Gemeinde;41
+4871;Wagenhausen;D;TG;ländlich-gemischte Gemeinde;41
+4881;Amlikon-Bissegg;D;TG;ländlich-gemischte Gemeinde;41
+4891;Berg (TG);D;TG;ländlich-gemischte Gemeinde;41
+4901;Birwinken;D;TG;ländlich-gemischte Gemeinde;41
+4911;Bürglen (TG);D;TG;ländlich-gemischte Gemeinde;41
+4921;Bussnang;D;TG;ländlich-gemischte Gemeinde;41
+4941;Märstetten;D;TG;ländlich-gemischte Gemeinde;41
+4946;Weinfelden;D;TG;Kleinagglomerationsgemeinde;31
+4951;Wigoltingen;D;TG;ländlich-gemischte Gemeinde;41
+5001;Arbedo-Castione;I;TI;Kleinagglomerationsgemeinde;31
+5002;Bellinzona;I;TI;Kleinstadt;13
+5003;Cadenazzo;I;TI;Kleinagglomerationsgemeinde;31
+5004;Camorino;I;TI;Kleinagglomerationsgemeinde;31
+5005;Giubiasco;I;TI;Kleinagglomerationsgemeinde;31
+5006;Gnosca;I;TI;Kleinagglomerationsgemeinde;31
+5007;Gorduno;I;TI;Kleinagglomerationsgemeinde;31
+5008;Gudo;I;TI;Kleinagglomerationsgemeinde;31
+5009;Isone;I;TI;Kleinagglomerationsgemeinde;31
+5010;Lumino;I;TI;Kleinagglomerationsgemeinde;31
+5012;Moleno;I;TI;Kleinagglomerationsgemeinde;31
+5013;Monte Carasso;I;TI;Kleinagglomerationsgemeinde;31
+5014;Pianezzo;I;TI;Kleinagglomerationsgemeinde;31
+5015;Preonzo;I;TI;Kleinagglomerationsgemeinde;31
+5017;Sant'Antonino;I;TI;Kleinagglomerationsgemeinde;31
+5018;Sant'Antonio;I;TI;Kleinagglomerationsgemeinde;31
+5019;Sementina;I;TI;Kleinagglomerationsgemeinde;31
+5048;Acquarosso;I;TI;ländlich-gemischte Gemeinde;41
+5049;Blenio;I;TI;ländlich-gemischte Gemeinde;41
+5050;Serravalle;I;TI;ländlich-gemischte Gemeinde;41
+5061;Airolo;I;TI;ländlich-gemischte Gemeinde;41
+5063;Bedretto;I;TI;ländlich-gemischte Gemeinde;41
+5064;Bodio;I;TI;ländlich-gemischte Gemeinde;41
+5071;Dalpe;I;TI;ländlich-gemischte Gemeinde;41
+5072;Faido;I;TI;ländlich-gemischte Gemeinde;41
+5073;Giornico;I;TI;ländlich-gemischte Gemeinde;41
+5076;Personico;I;TI;ländlich-gemischte Gemeinde;41
+5077;Pollegio;I;TI;ländlich-gemischte Gemeinde;41
+5078;Prato (Leventina);I;TI;ländlich-gemischte Gemeinde;41
+5079;Quinto;I;TI;ländlich-gemischte Gemeinde;41
+5081;Sobrio;I;TI;ländlich-gemischte Gemeinde;41
+5091;Ascona;I;TI;Kleinagglomerationsgemeinde;31
+5095;Brione (Verzasca);I;TI;ländlich-gemischte Gemeinde;41
+5096;Brione sopra Minusio;I;TI;Kleinagglomerationsgemeinde;31
+5097;Brissago;I;TI;ländlich-gemischte Gemeinde;41
+5102;Corippo;I;TI;Kleinagglomerationsgemeinde;31
+5105;Frasco;I;TI;ländlich-gemischte Gemeinde;41
+5108;Gordola;I;TI;Kleinagglomerationsgemeinde;31
+5109;Gresso;I;TI;ländlich-gemischte Gemeinde;41
+5112;Lavertezzo;I;TI;Kleinagglomerationsgemeinde;31
+5113;Locarno;I;TI;Kleinstadt;13
+5115;Losone;I;TI;Kleinagglomerationsgemeinde;31
+5117;Mergoscia;I;TI;Kleinagglomerationsgemeinde;31
+5118;Minusio;I;TI;Kleinagglomerationsgemeinde;31
+5119;Mosogno;I;TI;ländlich-gemischte Gemeinde;41
+5120;Muralto;I;TI;Kleinagglomerationsgemeinde;31
+5121;Orselina;I;TI;Kleinagglomerationsgemeinde;31
+5125;Ronco sopra Ascona;I;TI;Kleinagglomerationsgemeinde;31
+5129;Sonogno;I;TI;ländlich-gemischte Gemeinde;41
+5131;Tenero-Contra;I;TI;Kleinagglomerationsgemeinde;31
+5132;Vergeletto;I;TI;ländlich-gemischte Gemeinde;41
+5135;Vogorno;I;TI;Kleinagglomerationsgemeinde;31
+5136;Onsernone;I;TI;ländlich-gemischte Gemeinde;41
+5137;Isorno;I;TI;Kleinagglomerationsgemeinde;31
+5138;Cugnasco-Gerra;I;TI;Kleinagglomerationsgemeinde;31
+5141;Agno;I;TI;statustiefe Gemeinde;23
+5143;Aranno;I;TI;statustiefe Gemeinde;23
+5144;Arogno;I;TI;statustiefe Gemeinde;23
+5146;Astano;I;TI;statustiefe Gemeinde;23
+5148;Bedano;I;TI;statusmittlere Gemeinde;22
+5149;Bedigliora;I;TI;statustiefe Gemeinde;23
+5151;Bioggio;I;TI;statusmittlere Gemeinde;22
+5154;Bissone;I;TI;statustiefe Gemeinde;23
+5160;Brusino Arsizio;I;TI;Kleinagglomerationsgemeinde;31
+5161;Cademario;I;TI;statusmittlere Gemeinde;22
+5162;Cadempino;I;TI;statusmittlere Gemeinde;22
+5167;Canobbio;I;TI;statusmittlere Gemeinde;22
+5171;Caslano;I;TI;statustiefe Gemeinde;23
+5176;Comano;I;TI;statushohe Gemeinde;21
+5178;Croglio;I;TI;statustiefe Gemeinde;23
+5180;Cureglia;I;TI;statushohe Gemeinde;21
+5181;Curio;I;TI;statustiefe Gemeinde;23
+5186;Grancia;I;TI;statusmittlere Gemeinde;22
+5187;Gravesano;I;TI;statusmittlere Gemeinde;22
+5189;Lamone;I;TI;statustiefe Gemeinde;23
+5192;Lugano;I;TI;Mittelstadt;12
+5193;Magliaso;I;TI;statusmittlere Gemeinde;22
+5194;Manno;I;TI;statusmittlere Gemeinde;22
+5195;Maroggia;I;TI;statustiefe Gemeinde;23
+5196;Massagno;I;TI;statustiefe Gemeinde;23
+5197;Melano;I;TI;statustiefe Gemeinde;23
+5198;Melide;I;TI;statustiefe Gemeinde;23
+5199;Mezzovico-Vira;I;TI;statusmittlere Gemeinde;22
+5200;Miglieglia;I;TI;statustiefe Gemeinde;23
+5202;Monteggio;I;TI;statustiefe Gemeinde;23
+5203;Morcote;I;TI;statustiefe Gemeinde;23
+5205;Muzzano;I;TI;statusmittlere Gemeinde;22
+5206;Neggio;I;TI;statusmittlere Gemeinde;22
+5207;Novaggio;I;TI;statustiefe Gemeinde;23
+5208;Origlio;I;TI;statusmittlere Gemeinde;22
+5210;Paradiso;I;TI;statustiefe Gemeinde;23
+5212;Ponte Capriasca;I;TI;statusmittlere Gemeinde;22
+5213;Ponte Tresa;I;TI;statustiefe Gemeinde;23
+5214;Porza;I;TI;statusmittlere Gemeinde;22
+5216;Pura;I;TI;statustiefe Gemeinde;23
+5219;Rovio;I;TI;statusmittlere Gemeinde;22
+5221;Savosa;I;TI;statustiefe Gemeinde;23
+5222;Sessa;I;TI;statustiefe Gemeinde;23
+5225;Sorengo;I;TI;statusmittlere Gemeinde;22
+5226;Capriasca;I;TI;statusmittlere Gemeinde;22
+5227;Torricella-Taverne;I;TI;statusmittlere Gemeinde;22
+5230;Vernate;I;TI;statusmittlere Gemeinde;22
+5231;Vezia;I;TI;statusmittlere Gemeinde;22
+5233;Vico Morcote;I;TI;statustiefe Gemeinde;23
+5236;Collina d'Oro;I;TI;statusmittlere Gemeinde;22
+5237;Alto Malcantone;I;TI;statustiefe Gemeinde;23
+5238;Monteceneri;I;TI;statusmittlere Gemeinde;22
+5242;Balerna;I;TI;Kleinagglomerationsgemeinde;31
+5249;Castel San Pietro;I;TI;Kleinagglomerationsgemeinde;31
+5250;Chiasso;I;TI;Kleinagglomerationsgemeinde;31
+5251;Coldrerio;I;TI;Kleinagglomerationsgemeinde;31
+5254;Mendrisio;I;TI;Kleinagglomerationsgemeinde;31
+5257;Morbio Inferiore;I;TI;Kleinagglomerationsgemeinde;31
+5260;Novazzano;I;TI;Kleinagglomerationsgemeinde;31
+5263;Riva San Vitale;I;TI;Kleinagglomerationsgemeinde;31
+5266;Stabio;I;TI;Kleinagglomerationsgemeinde;31
+5268;Vacallo;I;TI;Kleinagglomerationsgemeinde;31
+5269;Breggia;I;TI;Kleinagglomerationsgemeinde;31
+5281;Biasca;I;TI;ländlich-gemischte Gemeinde;41
+5282;Claro;I;TI;Kleinagglomerationsgemeinde;31
+5283;Cresciano;I;TI;Kleinagglomerationsgemeinde;31
+5284;Iragna;I;TI;ländlich-gemischte Gemeinde;41
+5285;Lodrino;I;TI;ländlich-gemischte Gemeinde;41
+5286;Osogna;I;TI;Kleinagglomerationsgemeinde;31
+5304;Bosco/Gurin;I;TI;ländlich-gemischte Gemeinde;41
+5307;Campo (Vallemaggia);I;TI;ländlich-gemischte Gemeinde;41
+5309;Cerentino;I;TI;ländlich-gemischte Gemeinde;41
+5310;Cevio;I;TI;ländlich-gemischte Gemeinde;41
+5315;Linescio;I;TI;ländlich-gemischte Gemeinde;41
+5317;Maggia;I;TI;Kleinagglomerationsgemeinde;31
+5323;Lavizzara;I;TI;ländlich-gemischte Gemeinde;41
+5324;Avegno Gordevio;I;TI;Kleinagglomerationsgemeinde;31
+5396;Terre di Pedemonte;I;TI;Kleinagglomerationsgemeinde;31
+5397;Centovalli;I;TI;Kleinagglomerationsgemeinde;31
+5398;Gambarogno;I;TI;Kleinagglomerationsgemeinde;31
+5401;Aigle;F;VD;Kleinagglomerationsgemeinde;31
+5402;Bex;F;VD;ländlich-gemischte Gemeinde;41
+5403;Chessel;F;VD;ländlich-gemischte Gemeinde;41
+5404;Corbeyrier;F;VD;ländlich-gemischte Gemeinde;41
+5405;Gryon;F;VD;ländlich-gemischte Gemeinde;41
+5406;Lavey-Morcles;F;VD;ländlich-gemischte Gemeinde;41
+5407;Leysin;F;VD;ländlich-gemischte Gemeinde;41
+5408;Noville;F;VD;Kleinagglomerationsgemeinde;31
+5409;Ollon;F;VD;ländlich-gemischte Gemeinde;41
+5410;Ormont-Dessous;F;VD;ländlich-gemischte Gemeinde;41
+5411;Ormont-Dessus;F;VD;ländlich-gemischte Gemeinde;41
+5412;Rennaz;F;VD;Kleinagglomerationsgemeinde;31
+5413;Roche (VD);F;VD;Kleinagglomerationsgemeinde;31
+5414;Villeneuve (VD);F;VD;Kleinagglomerationsgemeinde;31
+5415;Yvorne;F;VD;ländlich-gemischte Gemeinde;41
+5421;Apples;F;VD;statusmittlere Gemeinde;22
+5422;Aubonne;F;VD;Kleinagglomerationsgemeinde;31
+5423;Ballens;F;VD;statusmittlere Gemeinde;22
+5424;Berolle;F;VD;Kleinagglomerationsgemeinde;31
+5425;Bière;F;VD;ländlich-gemischte Gemeinde;41
+5426;Bougy-Villars;F;VD;Kleinagglomerationsgemeinde;31
+5427;Féchy;F;VD;Kleinagglomerationsgemeinde;31
+5428;Gimel;F;VD;Kleinagglomerationsgemeinde;31
+5429;Longirod;F;VD;statushohe Gemeinde;21
+5430;Marchissy;F;VD;statusmittlere Gemeinde;22
+5431;Mollens (VD);F;VD;statusmittlere Gemeinde;22
+5432;Montherod;F;VD;Kleinagglomerationsgemeinde;31
+5434;Saint-George;F;VD;statushohe Gemeinde;21
+5435;Saint-Livres;F;VD;Kleinagglomerationsgemeinde;31
+5436;Saint-Oyens;F;VD;Kleinagglomerationsgemeinde;31
+5437;Saubraz;F;VD;Kleinagglomerationsgemeinde;31
+5451;Avenches;F;VD;ländlich-gemischte Gemeinde;41
+5456;Cudrefin;F;VD;Kleinagglomerationsgemeinde;31
+5458;Faoug;F;VD;ländlich-gemischte Gemeinde;41
+5464;Vully-les-Lacs;F;VD;ländlich-gemischte Gemeinde;41
+5471;Bettens;F;VD;statushohe Gemeinde;21
+5472;Bournens;F;VD;statushohe Gemeinde;21
+5473;Boussens;F;VD;statushohe Gemeinde;21
+5474;La Chaux (Cossonay);F;VD;statushohe Gemeinde;21
+5475;Chavannes-le-Veyron;F;VD;statusmittlere Gemeinde;22
+5476;Chevilly;F;VD;statusmittlere Gemeinde;22
+5477;Cossonay;F;VD;statusmittlere Gemeinde;22
+5478;Cottens (VD);F;VD;statushohe Gemeinde;21
+5479;Cuarnens;F;VD;statusmittlere Gemeinde;22
+5480;Daillens;F;VD;statushohe Gemeinde;21
+5481;Dizy;F;VD;statusmittlere Gemeinde;22
+5482;Eclépens;F;VD;statusmittlere Gemeinde;22
+5483;Ferreyres;F;VD;statushohe Gemeinde;21
+5484;Gollion;F;VD;statusmittlere Gemeinde;22
+5485;Grancy;F;VD;statushohe Gemeinde;21
+5486;L'Isle;F;VD;statusmittlere Gemeinde;22
+5487;Lussery-Villars;F;VD;statusmittlere Gemeinde;22
+5488;Mauraz;F;VD;statusmittlere Gemeinde;22
+5489;Mex (VD);F;VD;statushohe Gemeinde;21
+5490;Moiry;F;VD;ländlich-gemischte Gemeinde;41
+5491;Mont-la-Ville;F;VD;ländlich-gemischte Gemeinde;41
+5492;Montricher;F;VD;statusmittlere Gemeinde;22
+5493;Orny;F;VD;statusmittlere Gemeinde;22
+5494;Pampigny;F;VD;statusmittlere Gemeinde;22
+5495;Penthalaz;F;VD;statusmittlere Gemeinde;22
+5496;Penthaz;F;VD;statushohe Gemeinde;21
+5497;Pompaples;F;VD;ländlich-gemischte Gemeinde;41
+5498;La Sarraz;F;VD;statusmittlere Gemeinde;22
+5499;Senarclens;F;VD;statusmittlere Gemeinde;22
+5500;Sévery;F;VD;statusmittlere Gemeinde;22
+5501;Sullens;F;VD;statushohe Gemeinde;21
+5503;Vufflens-la-Ville;F;VD;statushohe Gemeinde;21
+5511;Assens;F;VD;statushohe Gemeinde;21
+5512;Bercher;F;VD;statusmittlere Gemeinde;22
+5513;Bioley-Orjulaz;F;VD;statushohe Gemeinde;21
+5514;Bottens;F;VD;statusmittlere Gemeinde;22
+5515;Bretigny-sur-Morrens;F;VD;statushohe Gemeinde;21
+5516;Cugy (VD);F;VD;statushohe Gemeinde;21
+5518;Echallens;F;VD;statusmittlere Gemeinde;22
+5520;Essertines-sur-Yverdon;F;VD;Kleinagglomerationsgemeinde;31
+5521;Etagnières;F;VD;statusmittlere Gemeinde;22
+5522;Fey;F;VD;statusmittlere Gemeinde;22
+5523;Froideville;F;VD;statushohe Gemeinde;21
+5527;Morrens (VD);F;VD;statushohe Gemeinde;21
+5529;Oulens-sous-Echallens;F;VD;statusmittlere Gemeinde;22
+5530;Pailly;F;VD;Kleinagglomerationsgemeinde;31
+5531;Penthéréaz;F;VD;statusmittlere Gemeinde;22
+5533;Poliez-Pittet;F;VD;statusmittlere Gemeinde;22
+5534;Rueyres;F;VD;statushohe Gemeinde;21
+5535;Saint-Barthélemy (VD);F;VD;statusmittlere Gemeinde;22
+5537;Villars-le-Terroir;F;VD;statusmittlere Gemeinde;22
+5539;Vuarrens;F;VD;statushohe Gemeinde;21
+5540;Montilliez;F;VD;statushohe Gemeinde;21
+5541;Goumoëns;F;VD;statusmittlere Gemeinde;22
+5551;Bonvillars;F;VD;Kleinagglomerationsgemeinde;31
+5552;Bullet;F;VD;ländlich-gemischte Gemeinde;41
+5553;Champagne;F;VD;Kleinagglomerationsgemeinde;31
+5554;Concise;F;VD;Kleinagglomerationsgemeinde;31
+5555;Corcelles-près-Concise;F;VD;Kleinagglomerationsgemeinde;31
+5556;Fiez;F;VD;Kleinagglomerationsgemeinde;31
+5557;Fontaines-sur-Grandson;F;VD;Kleinagglomerationsgemeinde;31
+5559;Giez;F;VD;Kleinagglomerationsgemeinde;31
+5560;Grandevent;F;VD;Kleinagglomerationsgemeinde;31
+5561;Grandson;F;VD;Kleinagglomerationsgemeinde;31
+5562;Mauborget;F;VD;ländlich-gemischte Gemeinde;41
+5563;Mutrux;F;VD;ländlich-gemischte Gemeinde;41
+5564;Novalles;F;VD;Kleinagglomerationsgemeinde;31
+5565;Onnens (VD);F;VD;Kleinagglomerationsgemeinde;31
+5566;Provence;F;VD;ländlich-gemischte Gemeinde;41
+5568;Sainte-Croix;F;VD;ländlich-gemischte Gemeinde;41
+5571;Tévenon;F;VD;Kleinagglomerationsgemeinde;31
+5581;Belmont-sur-Lausanne;F;VD;statushohe Gemeinde;21
+5582;Cheseaux-sur-Lausanne;F;VD;statusmittlere Gemeinde;22
+5583;Crissier;F;VD;statustiefe Gemeinde;23
+5584;Epalinges;F;VD;statushohe Gemeinde;21
+5585;Jouxtens-Mézery;F;VD;statushohe Gemeinde;21
+5586;Lausanne;F;VD;Grossstadt;11
+5587;Le Mont-sur-Lausanne;F;VD;statushohe Gemeinde;21
+5588;Paudex;F;VD;statusmittlere Gemeinde;22
+5589;Prilly;F;VD;statustiefe Gemeinde;23
+5590;Pully;F;VD;statushohe Gemeinde;21
+5591;Renens (VD);F;VD;statustiefe Gemeinde;23
+5592;Romanel-sur-Lausanne;F;VD;statusmittlere Gemeinde;22
+5601;Chexbres;F;VD;statusmittlere Gemeinde;22
+5604;Forel (Lavaux);F;VD;statusmittlere Gemeinde;22
+5606;Lutry;F;VD;statushohe Gemeinde;21
+5607;Puidoux;F;VD;statusmittlere Gemeinde;22
+5609;Rivaz;F;VD;statushohe Gemeinde;21
+5610;Saint-Saphorin (Lavaux);F;VD;statusmittlere Gemeinde;22
+5611;Savigny;F;VD;statusmittlere Gemeinde;22
+5613;Bourg-en-Lavaux;F;VD;statushohe Gemeinde;21
+5621;Aclens;F;VD;statusmittlere Gemeinde;22
+5622;Bremblens;F;VD;statushohe Gemeinde;21
+5623;Buchillon;F;VD;Kleinagglomerationsgemeinde;31
+5624;Bussigny;F;VD;statustiefe Gemeinde;23
+5625;Bussy-Chardonney;F;VD;statushohe Gemeinde;21
+5627;Chavannes-près-Renens;F;VD;statustiefe Gemeinde;23
+5628;Chigny;F;VD;statushohe Gemeinde;21
+5629;Clarmont;F;VD;statusmittlere Gemeinde;22
+5631;Denens;F;VD;statushohe Gemeinde;21
+5632;Denges;F;VD;statusmittlere Gemeinde;22
+5633;Echandens;F;VD;statushohe Gemeinde;21
+5634;Echichens;F;VD;statushohe Gemeinde;21
+5635;Ecublens (VD);F;VD;statustiefe Gemeinde;23
+5636;Etoy;F;VD;Kleinagglomerationsgemeinde;31
+5637;Lavigny;F;VD;Kleinagglomerationsgemeinde;31
+5638;Lonay;F;VD;statushohe Gemeinde;21
+5639;Lully (VD);F;VD;statushohe Gemeinde;21
+5640;Lussy-sur-Morges;F;VD;statushohe Gemeinde;21
+5642;Morges;F;VD;statusmittlere Gemeinde;22
+5643;Préverenges;F;VD;statushohe Gemeinde;21
+5644;Reverolle;F;VD;statusmittlere Gemeinde;22
+5645;Romanel-sur-Morges;F;VD;statushohe Gemeinde;21
+5646;Saint-Prex;F;VD;statushohe Gemeinde;21
+5648;Saint-Sulpice (VD);F;VD;statushohe Gemeinde;21
+5649;Tolochenaz;F;VD;statusmittlere Gemeinde;22
+5650;Vaux-sur-Morges;F;VD;statusmittlere Gemeinde;22
+5651;Villars-Sainte-Croix;F;VD;statushohe Gemeinde;21
+5652;Villars-sous-Yens;F;VD;statushohe Gemeinde;21
+5653;Vufflens-le-Château;F;VD;statushohe Gemeinde;21
+5654;Vullierens;F;VD;statusmittlere Gemeinde;22
+5655;Yens;F;VD;statushohe Gemeinde;21
+5661;Boulens;F;VD;statusmittlere Gemeinde;22
+5662;Brenles;F;VD;ländlich-gemischte Gemeinde;41
+5663;Bussy-sur-Moudon;F;VD;statusmittlere Gemeinde;22
+5665;Chavannes-sur-Moudon;F;VD;statusmittlere Gemeinde;22
+5666;Chesalles-sur-Moudon;F;VD;statusmittlere Gemeinde;22
+5668;Cremin;F;VD;ländlich-gemischte Gemeinde;41
+5669;Curtilles;F;VD;ländlich-gemischte Gemeinde;41
+5671;Dompierre (VD);F;VD;ländlich-gemischte Gemeinde;41
+5672;Forel-sur-Lucens;F;VD;ländlich-gemischte Gemeinde;41
+5673;Hermenches;F;VD;statusmittlere Gemeinde;22
+5674;Lovatens;F;VD;ländlich-gemischte Gemeinde;41
+5675;Lucens;F;VD;ländlich-gemischte Gemeinde;41
+5678;Moudon;F;VD;ländlich-gemischte Gemeinde;41
+5680;Ogens;F;VD;statusmittlere Gemeinde;22
+5683;Prévonloup;F;VD;ländlich-gemischte Gemeinde;41
+5684;Rossenges;F;VD;statusmittlere Gemeinde;22
+5686;Sarzens;F;VD;ländlich-gemischte Gemeinde;41
+5688;Syens;F;VD;statusmittlere Gemeinde;22
+5690;Villars-le-Comte;F;VD;Kleinagglomerationsgemeinde;31
+5692;Vucherens;F;VD;statusmittlere Gemeinde;22
+5693;Montanaire;F;VD;statusmittlere Gemeinde;22
+5701;Arnex-sur-Nyon;F;VD;statushohe Gemeinde;21
+5702;Arzier-Le Muids;F;VD;statusmittlere Gemeinde;22
+5703;Bassins;F;VD;statushohe Gemeinde;21
+5704;Begnins;F;VD;statushohe Gemeinde;21
+5705;Bogis-Bossey;F;VD;statushohe Gemeinde;21
+5706;Borex;F;VD;statushohe Gemeinde;21
+5707;Chavannes-de-Bogis;F;VD;statushohe Gemeinde;21
+5708;Chavannes-des-Bois;F;VD;statushohe Gemeinde;21
+5709;Chéserex;F;VD;statushohe Gemeinde;21
+5710;Coinsins;F;VD;statushohe Gemeinde;21
+5711;Commugny;F;VD;statushohe Gemeinde;21
+5712;Coppet;F;VD;statushohe Gemeinde;21
+5713;Crans-près-Céligny;F;VD;statushohe Gemeinde;21
+5714;Crassier;F;VD;statushohe Gemeinde;21
+5715;Duillier;F;VD;statushohe Gemeinde;21
+5716;Eysins;F;VD;statushohe Gemeinde;21
+5717;Founex;F;VD;statushohe Gemeinde;21
+5718;Genolier;F;VD;statushohe Gemeinde;21
+5719;Gingins;F;VD;statushohe Gemeinde;21
+5720;Givrins;F;VD;statushohe Gemeinde;21
+5721;Gland;F;VD;statushohe Gemeinde;21
+5722;Grens;F;VD;statushohe Gemeinde;21
+5723;Mies;F;VD;statushohe Gemeinde;21
+5724;Nyon;F;VD;statusmittlere Gemeinde;22
+5725;Prangins;F;VD;statushohe Gemeinde;21
+5726;La Rippe;F;VD;statushohe Gemeinde;21
+5727;Saint-Cergue;F;VD;statustiefe Gemeinde;23
+5728;Signy-Avenex;F;VD;statushohe Gemeinde;21
+5729;Tannay;F;VD;statushohe Gemeinde;21
+5730;Trélex;F;VD;statushohe Gemeinde;21
+5731;Le Vaud;F;VD;statushohe Gemeinde;21
+5732;Vich;F;VD;statusmittlere Gemeinde;22
+5741;L'Abergement;F;VD;ländlich-gemischte Gemeinde;41
+5742;Agiez;F;VD;ländlich-gemischte Gemeinde;41
+5743;Arnex-sur-Orbe;F;VD;ländlich-gemischte Gemeinde;41
+5744;Ballaigues;F;VD;ländlich-gemischte Gemeinde;41
+5745;Baulmes;F;VD;Kleinagglomerationsgemeinde;31
+5746;Bavois;F;VD;statusmittlere Gemeinde;22
+5747;Bofflens;F;VD;ländlich-gemischte Gemeinde;41
+5748;Bretonnières;F;VD;ländlich-gemischte Gemeinde;41
+5749;Chavornay;F;VD;statusmittlere Gemeinde;22
+5750;Les Clées;F;VD;ländlich-gemischte Gemeinde;41
+5751;Corcelles-sur-Chavornay;F;VD;statusmittlere Gemeinde;22
+5752;Croy;F;VD;statusmittlere Gemeinde;22
+5754;Juriens;F;VD;ländlich-gemischte Gemeinde;41
+5755;Lignerolle;F;VD;ländlich-gemischte Gemeinde;41
+5756;Montcherand;F;VD;ländlich-gemischte Gemeinde;41
+5757;Orbe;F;VD;Kleinagglomerationsgemeinde;31
+5758;La Praz;F;VD;ländlich-gemischte Gemeinde;41
+5759;Premier;F;VD;ländlich-gemischte Gemeinde;41
+5760;Rances;F;VD;Kleinagglomerationsgemeinde;31
+5761;Romainmôtier-Envy;F;VD;ländlich-gemischte Gemeinde;41
+5762;Sergey;F;VD;ländlich-gemischte Gemeinde;41
+5763;Valeyres-sous-Rances;F;VD;Kleinagglomerationsgemeinde;31
+5764;Vallorbe;F;VD;ländlich-gemischte Gemeinde;41
+5765;Vaulion;F;VD;ländlich-gemischte Gemeinde;41
+5766;Vuiteboeuf;F;VD;Kleinagglomerationsgemeinde;31
+5782;Carrouge (VD);F;VD;statusmittlere Gemeinde;22
+5785;Corcelles-le-Jorat;F;VD;statusmittlere Gemeinde;22
+5788;Essertes;F;VD;statushohe Gemeinde;21
+5789;Ferlens (VD);F;VD;statusmittlere Gemeinde;22
+5790;Maracon;F;VD;statusmittlere Gemeinde;22
+5791;Mézières (VD);F;VD;statusmittlere Gemeinde;22
+5792;Montpreveyres;F;VD;statushohe Gemeinde;21
+5798;Ropraz;F;VD;statusmittlere Gemeinde;22
+5799;Servion;F;VD;statushohe Gemeinde;21
+5803;Vulliens;F;VD;statusmittlere Gemeinde;22
+5804;Jorat-Menthue;F;VD;statusmittlere Gemeinde;22
+5805;Oron;F;VD;statusmittlere Gemeinde;22
+5812;Champtauroz;F;VD;ländlich-gemischte Gemeinde;41
+5813;Chevroux;F;VD;ländlich-gemischte Gemeinde;41
+5816;Corcelles-près-Payerne;F;VD;Kleinagglomerationsgemeinde;31
+5817;Grandcour;F;VD;ländlich-gemischte Gemeinde;41
+5819;Henniez;F;VD;ländlich-gemischte Gemeinde;41
+5821;Missy;F;VD;ländlich-gemischte Gemeinde;41
+5822;Payerne;F;VD;Kleinagglomerationsgemeinde;31
+5827;Trey;F;VD;ländlich-gemischte Gemeinde;41
+5828;Treytorrens (Payerne);F;VD;ländlich-gemischte Gemeinde;41
+5830;Villarzel;F;VD;ländlich-gemischte Gemeinde;41
+5831;Valbroye;F;VD;ländlich-gemischte Gemeinde;41
+5841;Château-d'Oex;F;VD;ländlich-gemischte Gemeinde;41
+5842;Rossinière;F;VD;ländlich-gemischte Gemeinde;41
+5843;Rougemont;F;VD;ländlich-gemischte Gemeinde;41
+5851;Allaman;F;VD;Kleinagglomerationsgemeinde;31
+5852;Bursinel;F;VD;statushohe Gemeinde;21
+5853;Bursins;F;VD;statushohe Gemeinde;21
+5854;Burtigny;F;VD;Kleinagglomerationsgemeinde;31
+5855;Dully;F;VD;statushohe Gemeinde;21
+5856;Essertines-sur-Rolle;F;VD;Kleinagglomerationsgemeinde;31
+5857;Gilly;F;VD;statushohe Gemeinde;21
+5858;Luins;F;VD;statushohe Gemeinde;21
+5859;Mont-sur-Rolle;F;VD;statushohe Gemeinde;21
+5860;Perroy;F;VD;Kleinagglomerationsgemeinde;31
+5861;Rolle;F;VD;statusmittlere Gemeinde;22
+5862;Tartegnin;F;VD;Kleinagglomerationsgemeinde;31
+5863;Vinzel;F;VD;statushohe Gemeinde;21
+5871;L'Abbaye;F;VD;ländlich-gemischte Gemeinde;41
+5872;Le Chenit;F;VD;ländlich-gemischte Gemeinde;41
+5873;Le Lieu;F;VD;ländlich-gemischte Gemeinde;41
+5881;Blonay;F;VD;Kleinagglomerationsgemeinde;31
+5882;Chardonne;F;VD;Kleinagglomerationsgemeinde;31
+5883;Corseaux;F;VD;Kleinagglomerationsgemeinde;31
+5884;Corsier-sur-Vevey;F;VD;Kleinagglomerationsgemeinde;31
+5885;Jongny;F;VD;Kleinagglomerationsgemeinde;31
+5886;Montreux;F;VD;Mittelstadt;12
+5888;Saint-Légier-La Chiésaz;F;VD;Kleinagglomerationsgemeinde;31
+5889;La Tour-de-Peilz;F;VD;Kleinagglomerationsgemeinde;31
+5890;Vevey;F;VD;Kleinstadt;13
+5891;Veytaux;F;VD;Kleinagglomerationsgemeinde;31
+5902;Belmont-sur-Yverdon;F;VD;Kleinagglomerationsgemeinde;31
+5903;Bioley-Magnoux;F;VD;statusmittlere Gemeinde;22
+5904;Chamblon;F;VD;Kleinagglomerationsgemeinde;31
+5905;Champvent;F;VD;Kleinagglomerationsgemeinde;31
+5907;Chavannes-le-Chêne;F;VD;ländlich-gemischte Gemeinde;41
+5908;Chêne-Pâquier;F;VD;Kleinagglomerationsgemeinde;31
+5909;Cheseaux-Noréaz;F;VD;Kleinagglomerationsgemeinde;31
+5910;Cronay;F;VD;Kleinagglomerationsgemeinde;31
+5911;Cuarny;F;VD;Kleinagglomerationsgemeinde;31
+5912;Démoret;F;VD;ländlich-gemischte Gemeinde;41
+5913;Donneloye;F;VD;Kleinagglomerationsgemeinde;31
+5914;Ependes (VD);F;VD;Kleinagglomerationsgemeinde;31
+5915;Essert-Pittet;F;VD;Kleinagglomerationsgemeinde;31
+5919;Mathod;F;VD;Kleinagglomerationsgemeinde;31
+5921;Molondin;F;VD;Kleinagglomerationsgemeinde;31
+5922;Montagny-près-Yverdon;F;VD;Kleinagglomerationsgemeinde;31
+5923;Oppens;F;VD;Kleinagglomerationsgemeinde;31
+5924;Orges;F;VD;Kleinagglomerationsgemeinde;31
+5925;Orzens;F;VD;Kleinagglomerationsgemeinde;31
+5926;Pomy;F;VD;Kleinagglomerationsgemeinde;31
+5928;Rovray;F;VD;Kleinagglomerationsgemeinde;31
+5929;Suchy;F;VD;Kleinagglomerationsgemeinde;31
+5930;Suscévaz;F;VD;Kleinagglomerationsgemeinde;31
+5931;Treycovagnes;F;VD;Kleinagglomerationsgemeinde;31
+5932;Ursins;F;VD;Kleinagglomerationsgemeinde;31
+5933;Valeyres-sous-Montagny;F;VD;Kleinagglomerationsgemeinde;31
+5934;Valeyres-sous-Ursins;F;VD;Kleinagglomerationsgemeinde;31
+5935;Villars-Epeney;F;VD;Kleinagglomerationsgemeinde;31
+5937;Vugelles-La Mothe;F;VD;Kleinagglomerationsgemeinde;31
+5938;Yverdon-les-Bains;F;VD;Mittelstadt;12
+5939;Yvonand;F;VD;Kleinagglomerationsgemeinde;31
+6002;Brig-Glis;D;VS;Kleinstadt;13
+6004;Eggerberg;D;VS;Kleinagglomerationsgemeinde;31
+6007;Naters;D;VS;Kleinagglomerationsgemeinde;31
+6008;Ried-Brig;D;VS;Kleinagglomerationsgemeinde;31
+6009;Simplon;D;VS;ländlich-gemischte Gemeinde;41
+6010;Termen;D;VS;Kleinagglomerationsgemeinde;31
+6011;Zwischbergen;D;VS;Kleinagglomerationsgemeinde;31
+6021;Ardon;F;VS;Kleinagglomerationsgemeinde;31
+6022;Chamoson;F;VS;ländlich-gemischte Gemeinde;41
+6023;Conthey;F;VS;Kleinagglomerationsgemeinde;31
+6024;Nendaz;F;VS;Kleinagglomerationsgemeinde;31
+6025;Vétroz;F;VS;Kleinagglomerationsgemeinde;31
+6031;Bagnes;F;VS;ländlich-gemischte Gemeinde;41
+6032;Bourg-Saint-Pierre;F;VS;ländlich-gemischte Gemeinde;41
+6033;Liddes;F;VS;ländlich-gemischte Gemeinde;41
+6034;Orsières;F;VS;ländlich-gemischte Gemeinde;41
+6035;Sembrancher;F;VS;ländlich-gemischte Gemeinde;41
+6036;Vollèges;F;VS;ländlich-gemischte Gemeinde;41
+6052;Bellwald;D;VS;ländlich-gemischte Gemeinde;41
+6054;Binn;D;VS;ländlich-gemischte Gemeinde;41
+6055;Blitzingen;D;VS;ländlich-gemischte Gemeinde;41
+6056;Ernen;D;VS;ländlich-gemischte Gemeinde;41
+6057;Fiesch;D;VS;ländlich-gemischte Gemeinde;41
+6058;Fieschertal;D;VS;ländlich-gemischte Gemeinde;41
+6061;Lax;D;VS;ländlich-gemischte Gemeinde;41
+6064;Niederwald;D;VS;ländlich-gemischte Gemeinde;41
+6073;Grafschaft;D;VS;ländlich-gemischte Gemeinde;41
+6074;Münster-Geschinen;D;VS;ländlich-gemischte Gemeinde;41
+6075;Reckingen-Gluringen;D;VS;ländlich-gemischte Gemeinde;41
+6076;Obergoms;D;VS;ländlich-gemischte Gemeinde;41
+6081;Les Agettes;F;VS;Kleinagglomerationsgemeinde;31
+6082;Ayent;F;VS;Kleinagglomerationsgemeinde;31
+6083;Evolène;F;VS;ländlich-gemischte Gemeinde;41
+6084;Hérémence;F;VS;Kleinagglomerationsgemeinde;31
+6087;Saint-Martin (VS);F;VS;Kleinagglomerationsgemeinde;31
+6089;Vex;F;VS;Kleinagglomerationsgemeinde;31
+6090;Mont-Noble;F;VS;Kleinagglomerationsgemeinde;31
+6101;Agarn;D;VS;ländlich-gemischte Gemeinde;41
+6102;Albinen;D;VS;ländlich-gemischte Gemeinde;41
+6104;Ergisch;D;VS;ländlich-gemischte Gemeinde;41
+6109;Inden;D;VS;ländlich-gemischte Gemeinde;41
+6110;Leuk;D;VS;ländlich-gemischte Gemeinde;41
+6111;Leukerbad;D;VS;ländlich-gemischte Gemeinde;41
+6112;Oberems;D;VS;ländlich-gemischte Gemeinde;41
+6113;Salgesch;D;VS;Kleinagglomerationsgemeinde;31
+6116;Varen;D;VS;Kleinagglomerationsgemeinde;31
+6117;Guttet-Feschel;D;VS;ländlich-gemischte Gemeinde;41
+6118;Gampel-Bratsch;D;VS;ländlich-gemischte Gemeinde;41
+6119;Turtmann-Unterems;D;VS;ländlich-gemischte Gemeinde;41
+6131;Bovernier;F;VS;Kleinagglomerationsgemeinde;31
+6132;Charrat;F;VS;Kleinagglomerationsgemeinde;31
+6133;Fully;F;VS;Kleinagglomerationsgemeinde;31
+6134;Isérables;F;VS;Kleinagglomerationsgemeinde;31
+6135;Leytron;F;VS;ländlich-gemischte Gemeinde;41
+6136;Martigny;F;VS;Kleinstadt;13
+6137;Martigny-Combe;F;VS;Kleinagglomerationsgemeinde;31
+6139;Riddes;F;VS;Kleinagglomerationsgemeinde;31
+6140;Saillon;F;VS;Kleinagglomerationsgemeinde;31
+6141;Saxon;F;VS;Kleinagglomerationsgemeinde;31
+6142;Trient;F;VS;ländlich-gemischte Gemeinde;41
+6151;Champéry;F;VS;ländlich-gemischte Gemeinde;41
+6152;Collombey-Muraz;F;VS;Kleinagglomerationsgemeinde;31
+6153;Monthey;F;VS;Kleinstadt;13
+6154;Port-Valais;F;VS;Kleinagglomerationsgemeinde;31
+6155;Saint-Gingolph;F;VS;ländlich-gemischte Gemeinde;41
+6156;Troistorrents;F;VS;Kleinagglomerationsgemeinde;31
+6157;Val-d'Illiez;F;VS;ländlich-gemischte Gemeinde;41
+6158;Vionnaz;F;VS;Kleinagglomerationsgemeinde;31
+6159;Vouvry;F;VS;Kleinagglomerationsgemeinde;31
+6172;Bister;D;VS;Kleinagglomerationsgemeinde;31
+6173;Bitsch;D;VS;Kleinagglomerationsgemeinde;31
+6177;Grengiols;D;VS;Kleinagglomerationsgemeinde;31
+6181;Riederalp;D;VS;ländlich-gemischte Gemeinde;41
+6191;Ausserberg;D;VS;Kleinagglomerationsgemeinde;31
+6192;Blatten;D;VS;ländlich-gemischte Gemeinde;41
+6193;Bürchen;D;VS;Kleinagglomerationsgemeinde;31
+6194;Eischoll;D;VS;Kleinagglomerationsgemeinde;31
+6195;Ferden;D;VS;ländlich-gemischte Gemeinde;41
+6197;Kippel;D;VS;ländlich-gemischte Gemeinde;41
+6198;Niedergesteln;D;VS;Kleinagglomerationsgemeinde;31
+6199;Raron;D;VS;Kleinagglomerationsgemeinde;31
+6201;Unterbäch;D;VS;Kleinagglomerationsgemeinde;31
+6202;Wiler (Lötschen);D;VS;ländlich-gemischte Gemeinde;41
+6203;Mörel-Filet;D;VS;Kleinagglomerationsgemeinde;31
+6204;Steg-Hohtenn;D;VS;ländlich-gemischte Gemeinde;41
+6205;Bettmeralp;D;VS;ländlich-gemischte Gemeinde;41
+6211;Collonges;F;VS;ländlich-gemischte Gemeinde;41
+6212;Dorénaz;F;VS;ländlich-gemischte Gemeinde;41
+6213;Evionnaz;F;VS;ländlich-gemischte Gemeinde;41
+6214;Finhaut;F;VS;ländlich-gemischte Gemeinde;41
+6215;Massongex;F;VS;Kleinagglomerationsgemeinde;31
+6217;Saint-Maurice;F;VS;ländlich-gemischte Gemeinde;41
+6218;Salvan;F;VS;ländlich-gemischte Gemeinde;41
+6219;Vernayaz;F;VS;Kleinagglomerationsgemeinde;31
+6220;Vérossaz;F;VS;ländlich-gemischte Gemeinde;41
+6232;Chalais;F;VS;Kleinagglomerationsgemeinde;31
+6234;Chermignon;F;VS;ländlich-gemischte Gemeinde;41
+6235;Chippis;F;VS;Kleinagglomerationsgemeinde;31
+6238;Grône;F;VS;Kleinagglomerationsgemeinde;31
+6239;Icogne;F;VS;Kleinagglomerationsgemeinde;31
+6240;Lens;F;VS;ländlich-gemischte Gemeinde;41
+6241;Miège;F;VS;Kleinagglomerationsgemeinde;31
+6242;Mollens (VS);F;VS;ländlich-gemischte Gemeinde;41
+6243;Montana;F;VS;ländlich-gemischte Gemeinde;41
+6244;Randogne;F;VS;ländlich-gemischte Gemeinde;41
+6246;Saint-Léonard;F;VS;Kleinagglomerationsgemeinde;31
+6248;Sierre;F;VS;Kleinstadt;13
+6249;Venthône;F;VS;Kleinagglomerationsgemeinde;31
+6250;Veyras;F;VS;Kleinagglomerationsgemeinde;31
+6252;Anniviers;F;VS;ländlich-gemischte Gemeinde;41
+6261;Arbaz;F;VS;Kleinagglomerationsgemeinde;31
+6263;Grimisuat;F;VS;Kleinagglomerationsgemeinde;31
+6265;Savièse;F;VS;Kleinagglomerationsgemeinde;31
+6266;Sion;F;VS;Mittelstadt;12
+6267;Veysonnaz;F;VS;Kleinagglomerationsgemeinde;31
+6281;Baltschieder;D;VS;Kleinagglomerationsgemeinde;31
+6282;Eisten;D;VS;Kleinagglomerationsgemeinde;31
+6283;Embd;D;VS;Kleinagglomerationsgemeinde;31
+6285;Grächen;D;VS;ländlich-gemischte Gemeinde;41
+6286;Lalden;D;VS;Kleinagglomerationsgemeinde;31
+6287;Randa;D;VS;ländlich-gemischte Gemeinde;41
+6288;Saas-Almagell;D;VS;ländlich-gemischte Gemeinde;41
+6289;Saas-Balen;D;VS;ländlich-gemischte Gemeinde;41
+6290;Saas-Fee;D;VS;ländlich-gemischte Gemeinde;41
+6291;Saas-Grund;D;VS;ländlich-gemischte Gemeinde;41
+6292;St. Niklaus;D;VS;ländlich-gemischte Gemeinde;41
+6293;Stalden (VS);D;VS;Kleinagglomerationsgemeinde;31
+6294;Staldenried;D;VS;Kleinagglomerationsgemeinde;31
+6295;Täsch;D;VS;ländlich-gemischte Gemeinde;41
+6296;Törbel;D;VS;Kleinagglomerationsgemeinde;31
+6297;Visp;D;VS;Kleinagglomerationsgemeinde;31
+6298;Visperterminen;D;VS;Kleinagglomerationsgemeinde;31
+6299;Zeneggen;D;VS;Kleinagglomerationsgemeinde;31
+6300;Zermatt;D;VS;Kleinagglomerationsgemeinde;31
+6402;Bevaix;F;NE;Kleinagglomerationsgemeinde;31
+6404;Boudry;F;NE;Kleinagglomerationsgemeinde;31
+6405;Brot-Dessous;F;NE;ländlich-gemischte Gemeinde;41
+6407;Corcelles-Cormondrèche;F;NE;Kleinagglomerationsgemeinde;31
+6408;Cortaillod;F;NE;Kleinagglomerationsgemeinde;31
+6409;Fresens;F;NE;ländlich-gemischte Gemeinde;41
+6410;Gorgier;F;NE;ländlich-gemischte Gemeinde;41
+6411;Montalchez;F;NE;ländlich-gemischte Gemeinde;41
+6412;Peseux;F;NE;Kleinagglomerationsgemeinde;31
+6413;Rochefort;F;NE;Kleinagglomerationsgemeinde;31
+6414;Saint-Aubin-Sauges;F;NE;ländlich-gemischte Gemeinde;41
+6415;Vaumarcus;F;NE;ländlich-gemischte Gemeinde;41
+6416;Milvignes;F;NE;Kleinagglomerationsgemeinde;31
+6421;La Chaux-de-Fonds;F;NE;Mittelstadt;12
+6422;Les Planchettes;F;NE;Kleinagglomerationsgemeinde;31
+6423;La Sagne;F;NE;Kleinagglomerationsgemeinde;31
+6431;Les Brenets;F;NE;Kleinagglomerationsgemeinde;31
+6432;La Brévine;F;NE;ländlich-gemischte Gemeinde;41
+6433;Brot-Plamboz;F;NE;ländlich-gemischte Gemeinde;41
+6434;Le Cerneux-Péquignot;F;NE;Kleinagglomerationsgemeinde;31
+6435;La Chaux-du-Milieu;F;NE;Kleinagglomerationsgemeinde;31
+6436;Le Locle;F;NE;Kleinagglomerationsgemeinde;31
+6437;Les Ponts-de-Martel;F;NE;Kleinagglomerationsgemeinde;31
+6451;Cornaux;F;NE;Kleinagglomerationsgemeinde;31
+6452;Cressier (NE);F;NE;Kleinagglomerationsgemeinde;31
+6453;Enges;F;NE;Kleinagglomerationsgemeinde;31
+6454;Hauterive (NE);F;NE;Kleinagglomerationsgemeinde;31
+6455;Le Landeron;F;NE;Kleinagglomerationsgemeinde;31
+6456;Lignières;F;NE;Kleinagglomerationsgemeinde;31
+6458;Neuchâtel;F;NE;Mittelstadt;12
+6459;Saint-Blaise;F;NE;Kleinagglomerationsgemeinde;31
+6461;La Tène;F;NE;Kleinagglomerationsgemeinde;31
+6485;Valangin;F;NE;Kleinagglomerationsgemeinde;31
+6487;Val-de-Ruz;F;NE;Kleinagglomerationsgemeinde;31
+6504;La Côte-aux-Fées;F;NE;ländlich-gemischte Gemeinde;41
+6511;Les Verrières;F;NE;ländlich-gemischte Gemeinde;41
+6512;Val-de-Travers;F;NE;ländlich-gemischte Gemeinde;41
+6601;Aire-la-Ville;F;GE;statushohe Gemeinde;21
+6602;Anières;F;GE;statushohe Gemeinde;21
+6603;Avully;F;GE;statushohe Gemeinde;21
+6604;Avusy;F;GE;statushohe Gemeinde;21
+6605;Bardonnex;F;GE;statushohe Gemeinde;21
+6606;Bellevue;F;GE;statushohe Gemeinde;21
+6607;Bernex;F;GE;statushohe Gemeinde;21
+6608;Carouge (GE);F;GE;statusmittlere Gemeinde;22
+6609;Cartigny;F;GE;statushohe Gemeinde;21
+6610;Céligny;F;GE;statushohe Gemeinde;21
+6611;Chancy;F;GE;statushohe Gemeinde;21
+6612;Chêne-Bougeries;F;GE;statusmittlere Gemeinde;22
+6613;Chêne-Bourg;F;GE;statusmittlere Gemeinde;22
+6614;Choulex;F;GE;statushohe Gemeinde;21
+6615;Collex-Bossy;F;GE;statushohe Gemeinde;21
+6616;Collonge-Bellerive;F;GE;statushohe Gemeinde;21
+6617;Cologny;F;GE;statushohe Gemeinde;21
+6618;Confignon;F;GE;statushohe Gemeinde;21
+6619;Corsier (GE);F;GE;statushohe Gemeinde;21
+6620;Dardagny;F;GE;statushohe Gemeinde;21
+6621;Genève;F;GE;Grossstadt;11
+6622;Genthod;F;GE;statushohe Gemeinde;21
+6623;Le Grand-Saconnex;F;GE;statusmittlere Gemeinde;22
+6624;Gy;F;GE;statushohe Gemeinde;21
+6625;Hermance;F;GE;statushohe Gemeinde;21
+6626;Jussy;F;GE;statushohe Gemeinde;21
+6627;Laconnex;F;GE;statushohe Gemeinde;21
+6628;Lancy;F;GE;statusmittlere Gemeinde;22
+6629;Meinier;F;GE;statushohe Gemeinde;21
+6630;Meyrin;F;GE;statustiefe Gemeinde;23
+6631;Onex;F;GE;statustiefe Gemeinde;23
+6632;Perly-Certoux;F;GE;statushohe Gemeinde;21
+6633;Plan-les-Ouates;F;GE;statushohe Gemeinde;21
+6634;Pregny-Chambésy;F;GE;statushohe Gemeinde;21
+6635;Presinge;F;GE;statusmittlere Gemeinde;22
+6636;Puplinge;F;GE;statushohe Gemeinde;21
+6637;Russin;F;GE;statushohe Gemeinde;21
+6638;Satigny;F;GE;statushohe Gemeinde;21
+6639;Soral;F;GE;statushohe Gemeinde;21
+6640;Thônex;F;GE;statusmittlere Gemeinde;22
+6641;Troinex;F;GE;statushohe Gemeinde;21
+6642;Vandoeuvres;F;GE;statushohe Gemeinde;21
+6643;Vernier;F;GE;statustiefe Gemeinde;23
+6644;Versoix;F;GE;statusmittlere Gemeinde;22
+6645;Veyrier;F;GE;statushohe Gemeinde;21
+6702;Boécourt;F;JU;Kleinagglomerationsgemeinde;31
+6703;Bourrignon;F;JU;Kleinagglomerationsgemeinde;31
+6704;Châtillon (JU);F;JU;Kleinagglomerationsgemeinde;31
+6705;Corban;F;JU;Kleinagglomerationsgemeinde;31
+6706;Courchapoix;F;JU;Kleinagglomerationsgemeinde;31
+6708;Courrendlin;F;JU;Kleinagglomerationsgemeinde;31
+6709;Courroux;F;JU;Kleinagglomerationsgemeinde;31
+6710;Courtételle;F;JU;Kleinagglomerationsgemeinde;31
+6711;Delémont;F;JU;Kleinstadt;13
+6712;Develier;F;JU;Kleinagglomerationsgemeinde;31
+6713;Ederswiler;D;JU;ländlich-gemischte Gemeinde;41
+6715;Mervelier;F;JU;Kleinagglomerationsgemeinde;31
+6716;Mettembert;F;JU;Kleinagglomerationsgemeinde;31
+6718;Movelier;F;JU;Kleinagglomerationsgemeinde;31
+6719;Pleigne;F;JU;Kleinagglomerationsgemeinde;31
+6720;Rebeuvelier;F;JU;ländlich-gemischte Gemeinde;41
+6721;Rossemaison;F;JU;Kleinagglomerationsgemeinde;31
+6722;Saulcy;F;JU;ländlich-gemischte Gemeinde;41
+6724;Soyhières;F;JU;Kleinagglomerationsgemeinde;31
+6728;Vellerat;F;JU;ländlich-gemischte Gemeinde;41
+6729;Haute-Sorne;F;JU;ländlich-gemischte Gemeinde;41
+6730;Val Terbi;F;JU;Kleinagglomerationsgemeinde;31
+6741;Le Bémont (JU);F;JU;ländlich-gemischte Gemeinde;41
+6742;Les Bois;F;JU;ländlich-gemischte Gemeinde;41
+6743;Les Breuleux;F;JU;ländlich-gemischte Gemeinde;41
+6744;La Chaux-des-Breuleux;F;JU;ländlich-gemischte Gemeinde;41
+6745;Les Enfers;F;JU;ländlich-gemischte Gemeinde;41
+6748;Les Genevez (JU);F;JU;ländlich-gemischte Gemeinde;41
+6750;Lajoux (JU);F;JU;ländlich-gemischte Gemeinde;41
+6751;Montfaucon;F;JU;ländlich-gemischte Gemeinde;41
+6753;Muriaux;F;JU;ländlich-gemischte Gemeinde;41
+6754;Le Noirmont;F;JU;ländlich-gemischte Gemeinde;41
+6757;Saignelégier;F;JU;ländlich-gemischte Gemeinde;41
+6758;Saint-Brais;F;JU;ländlich-gemischte Gemeinde;41
+6759;Soubey;F;JU;ländlich-gemischte Gemeinde;41
+6771;Alle;F;JU;ländlich-gemischte Gemeinde;41
+6773;Beurnevésin;F;JU;ländlich-gemischte Gemeinde;41
+6774;Boncourt;F;JU;ländlich-gemischte Gemeinde;41
+6775;Bonfol;F;JU;ländlich-gemischte Gemeinde;41
+6778;Bure;F;JU;ländlich-gemischte Gemeinde;41
+6781;Coeuve;F;JU;ländlich-gemischte Gemeinde;41
+6782;Cornol;F;JU;ländlich-gemischte Gemeinde;41
+6783;Courchavon;F;JU;ländlich-gemischte Gemeinde;41
+6784;Courgenay;F;JU;ländlich-gemischte Gemeinde;41
+6785;Courtedoux;F;JU;ländlich-gemischte Gemeinde;41
+6787;Damphreux;F;JU;ländlich-gemischte Gemeinde;41
+6789;Fahy;F;JU;ländlich-gemischte Gemeinde;41
+6790;Fontenais;F;JU;Kleinagglomerationsgemeinde;31
+6792;Grandfontaine;F;JU;ländlich-gemischte Gemeinde;41
+6793;Lugnez;F;JU;ländlich-gemischte Gemeinde;41
+6800;Porrentruy;F;JU;Kleinagglomerationsgemeinde;31
+6803;Rocourt;F;JU;ländlich-gemischte Gemeinde;41
+6806;Vendlincourt;F;JU;ländlich-gemischte Gemeinde;41
+6807;Basse-Allaine;F;JU;ländlich-gemischte Gemeinde;41
+6808;Clos du Doubs;F;JU;ländlich-gemischte Gemeinde;41
+6809;Haute-Ajoie;F;JU;ländlich-gemischte Gemeinde;41
+6810;La Baroche;F;JU;ländlich-gemischte Gemeinde;41
