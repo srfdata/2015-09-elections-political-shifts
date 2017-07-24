@@ -597,7 +597,6 @@ ggplot(nrw_agglotyp_gps, aes(x = jahr, y = wert, color = agglotyp)) +
 # - add styling
 # - add source
 # - 
-setwd("./output")
 plotIteration <- function(cur_year){
   polit_raum_agglotyp_spread_range <- polit_raum_agglotyp_spread %>% 
     filter(jahr <= cur_year)
@@ -641,7 +640,7 @@ saveGIF({
   for (cur_year in c(1981:2014, rep(2014, 10))){
     plotIteration(cur_year)
   }
-}, interval = 0.1, movie.name = "movement.gif", ani.width = 624, ani.height = 480, clean = T)
+}, interval = 0.1, movie.name = "output/movement.gif", ani.width = 624, ani.height = 480, clean = T)
 setwd("..")
 ```
 ![movement.gif](output/movement.gif)
